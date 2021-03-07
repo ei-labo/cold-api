@@ -22,3 +22,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           cname: api.ei.mikit.app
+          enable_jekyll: true

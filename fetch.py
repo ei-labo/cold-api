@@ -15,6 +15,9 @@ FILES = [{
 }, {
     "url": "https://storage.googleapis.com/cold-api/mission_reward_count.json",
     "name": "mission_reward_count.json",
+}, {
+    "url": "https://storage.googleapis.com/cold-api/contributors.json",
+    "name": "contributors.json",
 }]
 
 for file in FILES:

@@ -132,7 +132,7 @@
         "se": 0.0
       }
     },
-    "cash_boost_cooloff_time": 120.0
+    "cash_boost_cooloff_time": 30.0
   },
   "gifts": {
     "items": {
@@ -255,9 +255,9 @@
       "interval_piggy_extra_full": 210.0
     },
     "gift_mu": {
-      "min": 10000.0,
+      "min": 25000.0,
       "max": 250000.0,
-      "mult": 1.0
+      "mult": 0.5
     }
   }
 }

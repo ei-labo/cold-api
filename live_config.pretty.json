@@ -243,20 +243,20 @@
       }
     },
     "package": {
-      "interval": 230.0,
+      "interval": 250.0,
       "interval_contract": 290.0,
       "interval_piggy_full": 330.0,
       "interval_piggy_extra_full": 400.0
     },
     "video": {
-      "interval": 240.0,
-      "interval_contract": 270.0,
-      "interval_piggy_full": 300.0,
-      "interval_piggy_extra_full": 270.0
+      "interval": 220.0,
+      "interval_contract": 250.0,
+      "interval_piggy_full": 270.0,
+      "interval_piggy_extra_full": 250.0
     },
     "gift_mu": {
       "min": 25000.0,
-      "max": 500000.0,
+      "max": 600000.0,
       "mult": 1.0
     }
   }

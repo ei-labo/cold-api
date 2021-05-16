@@ -1,11 +1,11 @@
 {
   "chicken_one": {
     "short": {
-      "count": 17092,
+      "count": 17196,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 9244,
+            "common": 9295,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -109,7 +109,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 945,
+            "common": 947,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -343,7 +343,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 6903,
+            "common": 6954,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -1410,11 +1410,11 @@
       }
     },
     "long": {
-      "count": 1145,
+      "count": 1150,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 547,
+            "common": 548,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -1518,7 +1518,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 197,
+            "common": 199,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -1752,7 +1752,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 401,
+            "common": 403,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -2819,11 +2819,11 @@
       }
     },
     "epic": {
-      "count": 2676,
+      "count": 2688,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 761,
+            "common": 763,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -2927,7 +2927,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 474,
+            "common": 477,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -2953,7 +2953,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 58,
+            "common": 60,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -3161,7 +3161,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 512,
+            "common": 514,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -3733,7 +3733,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 462,
+            "common": 463,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -4019,7 +4019,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 355,
+            "common": 357,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -4228,11 +4228,11 @@
       }
     },
     "tutorial": {
-      "count": 3123,
+      "count": 3147,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 592,
+            "common": 596,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -4570,7 +4570,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 2519,
+            "common": 2539,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -5639,11 +5639,11 @@
   },
   "chicken_nine": {
     "short": {
-      "count": 20923,
+      "count": 21112,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 5937,
+            "common": 5996,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -5747,7 +5747,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 9127,
+            "common": 9206,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -5773,7 +5773,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 228,
+            "common": 229,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -5981,7 +5981,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 4464,
+            "common": 4501,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -6553,7 +6553,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 691,
+            "common": 699,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -6839,7 +6839,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 476,
+            "common": 481,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8457,11 +8457,11 @@
       }
     },
     "epic": {
-      "count": 16029,
+      "count": 16083,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 924,
+            "common": 927,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8565,7 +8565,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 1605,
+            "common": 1612,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8591,7 +8591,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 820,
+            "common": 824,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8721,7 +8721,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 362,
+            "common": 365,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8747,7 +8747,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 524,
+            "common": 525,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -8799,7 +8799,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 732,
+            "common": 733,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -9371,7 +9371,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 6431,
+            "common": 6450,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -9631,7 +9631,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1101,
+            "common": 1105,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -9657,7 +9657,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 3465,
+            "common": 3477,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11277,17 +11277,17 @@
   },
   "chicken_heavy": {
     "short": {
-      "count": 156396,
+      "count": 158436,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 10536,
+            "common": 10710,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1676,
+            "common": 1684,
             "rare": 62,
             "epic": 0,
             "legendary": 0
@@ -11385,7 +11385,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 16563,
+            "common": 16845,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11411,7 +11411,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 15888,
+            "common": 16079,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11437,7 +11437,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 1220,
+            "common": 1228,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11541,7 +11541,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 5768,
+            "common": 5823,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11567,7 +11567,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 7645,
+            "common": 7717,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -11619,13 +11619,13 @@
         ],
         "puzzle_cube": [
           {
-            "common": 8187,
+            "common": 8311,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 739,
+            "common": 745,
             "rare": 0,
             "epic": 8,
             "legendary": 0
@@ -12191,7 +12191,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 72212,
+            "common": 73111,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -12217,7 +12217,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 1002,
+            "common": 1008,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -12451,7 +12451,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 4192,
+            "common": 4229,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -12477,7 +12477,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 10674,
+            "common": 10852,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -12686,7 +12686,7 @@
       }
     },
     "long": {
-      "count": 2408,
+      "count": 2422,
       "rewards": {
         "lunar_totem": [
           {
@@ -12794,7 +12794,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 174,
+            "common": 177,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -13600,7 +13600,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 908,
+            "common": 918,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -13860,7 +13860,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 156,
+            "common": 157,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14095,11 +14095,11 @@
       }
     },
     "epic": {
-      "count": 17550,
+      "count": 17595,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 616,
+            "common": 621,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14125,7 +14125,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 58,
+            "common": 59,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14203,7 +14203,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 924,
+            "common": 926,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14229,7 +14229,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 1264,
+            "common": 1265,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14385,7 +14385,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 977,
+            "common": 983,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -14437,7 +14437,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 452,
+            "common": 453,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -15009,7 +15009,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 5843,
+            "common": 5853,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -15035,7 +15035,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 850,
+            "common": 855,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -15217,7 +15217,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 182,
+            "common": 185,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -15269,7 +15269,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1649,
+            "common": 1653,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -15295,7 +15295,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 2537,
+            "common": 2544,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -16915,17 +16915,17 @@
   },
   "bcr": {
     "short": {
-      "count": 86922,
+      "count": 87912,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 3784,
+            "common": 3814,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 2830,
+            "common": 2856,
             "rare": 92,
             "epic": 0,
             "legendary": 0
@@ -16945,7 +16945,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 108,
+            "common": 109,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17023,7 +17023,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 5746,
+            "common": 5814,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17049,7 +17049,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 7751,
+            "common": 7842,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17075,7 +17075,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 2698,
+            "common": 2732,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17179,7 +17179,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 6871,
+            "common": 6951,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17205,7 +17205,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 8343,
+            "common": 8452,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17257,15 +17257,15 @@
         ],
         "puzzle_cube": [
           {
-            "common": 3015,
+            "common": 3049,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1777,
+            "common": 1798,
             "rare": 0,
-            "epic": 20,
+            "epic": 21,
             "legendary": 0
           },
           {
@@ -17829,7 +17829,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 33380,
+            "common": 33766,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -17855,7 +17855,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 3097,
+            "common": 3120,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18037,7 +18037,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 88,
+            "common": 89,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18089,7 +18089,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 3037,
+            "common": 3065,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18115,7 +18115,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 4256,
+            "common": 4313,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18324,11 +18324,11 @@
       }
     },
     "long": {
-      "count": 26600,
+      "count": 26620,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 894,
+            "common": 895,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18432,7 +18432,7 @@
         ],
         "demeters_necklace": [
           {
-            "common": 1368,
+            "common": 1369,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18458,7 +18458,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 1941,
+            "common": 1943,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18484,7 +18484,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 1147,
+            "common": 1148,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18588,7 +18588,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 2042,
+            "common": 2044,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18614,7 +18614,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 1979,
+            "common": 1982,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -18666,7 +18666,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 727,
+            "common": 729,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19238,7 +19238,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 7772,
+            "common": 7778,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19498,7 +19498,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1770,
+            "common": 1771,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19524,7 +19524,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 2396,
+            "common": 2397,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19733,18 +19733,18 @@
       }
     },
     "epic": {
-      "count": 40216,
+      "count": 40392,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 920,
+            "common": 922,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1212,
-            "rare": 85,
+            "common": 1213,
+            "rare": 86,
             "epic": 0,
             "legendary": 0
           },
@@ -19763,7 +19763,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 566,
+            "common": 567,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19841,13 +19841,13 @@
         ],
         "demeters_necklace": [
           {
-            "common": 1485,
+            "common": 1491,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 351,
+            "common": 352,
             "rare": 26,
             "epic": 0,
             "legendary": 0
@@ -19867,7 +19867,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 1971,
+            "common": 1979,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19893,7 +19893,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 1605,
+            "common": 1614,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -19997,7 +19997,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 2266,
+            "common": 2277,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20023,7 +20023,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 2141,
+            "common": 2149,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20075,13 +20075,13 @@
         ],
         "puzzle_cube": [
           {
-            "common": 691,
+            "common": 698,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 960,
+            "common": 962,
             "rare": 0,
             "epic": 31,
             "legendary": 0
@@ -20257,7 +20257,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 241,
+            "common": 242,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20647,7 +20647,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 9411,
+            "common": 9463,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20673,7 +20673,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 4776,
+            "common": 4792,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20829,7 +20829,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 2109,
+            "common": 2113,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20855,7 +20855,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1654,
+            "common": 1661,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20907,7 +20907,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 3193,
+            "common": 3207,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -20933,7 +20933,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 3773,
+            "common": 3798,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22553,17 +22553,17 @@
   },
   "millenium_chicken": {
     "short": {
-      "count": 55180,
+      "count": 55770,
       "rewards": {
         "lunar_totem": [
           {
-            "common": 869,
+            "common": 875,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1961,
+            "common": 1977,
             "rare": 72,
             "epic": 0,
             "legendary": 0
@@ -22583,7 +22583,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 1992,
+            "common": 2015,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22609,7 +22609,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 365,
+            "common": 369,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22661,14 +22661,14 @@
         ],
         "demeters_necklace": [
           {
-            "common": 1656,
+            "common": 1677,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1123,
-            "rare": 44,
+            "common": 1141,
+            "rare": 45,
             "epic": 0,
             "legendary": 0
           },
@@ -22687,7 +22687,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 2602,
+            "common": 2626,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22713,7 +22713,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 4092,
+            "common": 4138,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22817,7 +22817,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 3173,
+            "common": 3203,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22843,7 +22843,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 2915,
+            "common": 2938,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -22895,13 +22895,13 @@
         ],
         "puzzle_cube": [
           {
-            "common": 588,
+            "common": 594,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1998,
+            "common": 2013,
             "rare": 0,
             "epic": 18,
             "legendary": 0
@@ -23077,7 +23077,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 777,
+            "common": 785,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23103,7 +23103,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 115,
+            "common": 117,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23155,7 +23155,7 @@
         ],
         "shell_stone": [
           {
-            "common": 204,
+            "common": 209,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23181,7 +23181,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 149,
+            "common": 150,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23467,7 +23467,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 11524,
+            "common": 11650,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23493,7 +23493,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 9639,
+            "common": 9745,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23649,7 +23649,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 5396,
+            "common": 5451,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23675,7 +23675,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1434,
+            "common": 1458,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23727,7 +23727,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1144,
+            "common": 1155,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23753,7 +23753,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 1318,
+            "common": 1337,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -23962,7 +23962,7 @@
       }
     },
     "long": {
-      "count": 21528,
+      "count": 21624,
       "rewards": {
         "lunar_totem": [
           {
@@ -23972,7 +23972,7 @@
             "legendary": 0
           },
           {
-            "common": 499,
+            "common": 500,
             "rare": 27,
             "epic": 0,
             "legendary": 0
@@ -23992,7 +23992,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 1291,
+            "common": 1295,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24070,13 +24070,13 @@
         ],
         "demeters_necklace": [
           {
-            "common": 461,
+            "common": 463,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 670,
+            "common": 673,
             "rare": 24,
             "epic": 0,
             "legendary": 0
@@ -24096,7 +24096,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 757,
+            "common": 760,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24122,7 +24122,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 1154,
+            "common": 1163,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24226,7 +24226,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 861,
+            "common": 868,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24252,7 +24252,7 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 859,
+            "common": 862,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24304,7 +24304,7 @@
         ],
         "puzzle_cube": [
           {
-            "common": 161,
+            "common": 163,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24486,7 +24486,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 628,
+            "common": 630,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24512,7 +24512,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 139,
+            "common": 140,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24590,7 +24590,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 159,
+            "common": 160,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24876,7 +24876,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 3164,
+            "common": 3189,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -24902,7 +24902,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 3108,
+            "common": 3124,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25058,7 +25058,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 3052,
+            "common": 3063,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25084,7 +25084,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1154,
+            "common": 1157,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25136,7 +25136,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 737,
+            "common": 738,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25162,7 +25162,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 908,
+            "common": 910,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25371,7 +25371,7 @@
       }
     },
     "epic": {
-      "count": 24612,
+      "count": 24682,
       "rewards": {
         "lunar_totem": [
           {
@@ -25381,8 +25381,8 @@
             "legendary": 0
           },
           {
-            "common": 453,
-            "rare": 25,
+            "common": 455,
+            "rare": 26,
             "epic": 0,
             "legendary": 0
           },
@@ -25401,7 +25401,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 1074,
+            "common": 1076,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25427,7 +25427,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 611,
+            "common": 612,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25479,13 +25479,13 @@
         ],
         "demeters_necklace": [
           {
-            "common": 427,
+            "common": 428,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 570,
+            "common": 572,
             "rare": 42,
             "epic": 0,
             "legendary": 0
@@ -25531,7 +25531,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 934,
+            "common": 938,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25635,7 +25635,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 748,
+            "common": 749,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25719,7 +25719,7 @@
             "legendary": 0
           },
           {
-            "common": 550,
+            "common": 553,
             "rare": 0,
             "epic": 20,
             "legendary": 0
@@ -25895,7 +25895,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 1044,
+            "common": 1048,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -25921,7 +25921,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 265,
+            "common": 266,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26285,7 +26285,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 3051,
+            "common": 3064,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26311,7 +26311,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 3207,
+            "common": 3217,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26467,7 +26467,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 3439,
+            "common": 3451,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26493,7 +26493,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1787,
+            "common": 1790,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26545,7 +26545,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1129,
+            "common": 1135,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26571,7 +26571,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 1313,
+            "common": 1315,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26597,7 +26597,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 196,
+            "common": 197,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -26675,7 +26675,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 729,
+            "common": 730,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28191,7 +28191,7 @@
   },
   "corellihen_corvette": {
     "short": {
-      "count": 128772,
+      "count": 130176,
       "rewards": {
         "lunar_totem": [
           {
@@ -28201,8 +28201,8 @@
             "legendary": 0
           },
           {
-            "common": 3247,
-            "rare": 116,
+            "common": 3275,
+            "rare": 119,
             "epic": 0,
             "legendary": 0
           },
@@ -28221,7 +28221,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 10394,
+            "common": 10493,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28247,7 +28247,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 5550,
+            "common": 5618,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28305,8 +28305,8 @@
             "legendary": 0
           },
           {
-            "common": 5493,
-            "rare": 185,
+            "common": 5546,
+            "rare": 188,
             "epic": 0,
             "legendary": 0
           },
@@ -28325,7 +28325,7 @@
         ],
         "vial_martian_dust": [
           {
-            "common": 2799,
+            "common": 2836,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28351,7 +28351,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 7177,
+            "common": 7272,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28455,7 +28455,7 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 4253,
+            "common": 4293,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28481,13 +28481,13 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 3694,
+            "common": 3733,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 766,
+            "common": 773,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28539,9 +28539,9 @@
             "legendary": 0
           },
           {
-            "common": 3950,
+            "common": 3997,
             "rare": 0,
-            "epic": 54,
+            "epic": 55,
             "legendary": 0
           },
           {
@@ -28715,7 +28715,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 11125,
+            "common": 11239,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28741,7 +28741,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 636,
+            "common": 646,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28793,7 +28793,7 @@
         ],
         "shell_stone": [
           {
-            "common": 526,
+            "common": 532,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -28819,7 +28819,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 598,
+            "common": 605,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29105,7 +29105,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 13187,
+            "common": 13325,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29131,7 +29131,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 21868,
+            "common": 22098,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29287,7 +29287,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 26223,
+            "common": 26525,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29313,7 +29313,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 3805,
+            "common": 3847,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29365,7 +29365,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1514,
+            "common": 1532,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29391,7 +29391,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 1408,
+            "common": 1422,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29495,7 +29495,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 201,
+            "common": 204,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29600,7 +29600,7 @@
       }
     },
     "long": {
-      "count": 44646,
+      "count": 44688,
       "rewards": {
         "lunar_totem": [
           {
@@ -29610,7 +29610,7 @@
             "legendary": 0
           },
           {
-            "common": 925,
+            "common": 926,
             "rare": 43,
             "epic": 0,
             "legendary": 0
@@ -29630,7 +29630,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 2733,
+            "common": 2735,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29656,7 +29656,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 3428,
+            "common": 3430,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29714,7 +29714,7 @@
             "legendary": 0
           },
           {
-            "common": 1608,
+            "common": 1610,
             "rare": 75,
             "epic": 0,
             "legendary": 0
@@ -29760,7 +29760,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 1881,
+            "common": 1882,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29890,13 +29890,13 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 909,
+            "common": 910,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1408,
+            "common": 1409,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -29948,7 +29948,7 @@
             "legendary": 0
           },
           {
-            "common": 1083,
+            "common": 1086,
             "rare": 0,
             "epic": 14,
             "legendary": 0
@@ -30124,7 +30124,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 3413,
+            "common": 3416,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30150,7 +30150,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 385,
+            "common": 386,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30228,7 +30228,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 314,
+            "common": 315,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30514,7 +30514,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 3218,
+            "common": 3222,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30540,7 +30540,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 5877,
+            "common": 5883,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30696,7 +30696,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 7806,
+            "common": 7813,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30722,7 +30722,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 2506,
+            "common": 2510,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30800,7 +30800,7 @@
         ],
         "lunar_stone_fragment": [
           {
-            "common": 790,
+            "common": 792,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -30904,7 +30904,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 1803,
+            "common": 1804,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31009,7 +31009,7 @@
       }
     },
     "epic": {
-      "count": 24552,
+      "count": 24648,
       "rewards": {
         "lunar_totem": [
           {
@@ -31019,7 +31019,7 @@
             "legendary": 0
           },
           {
-            "common": 325,
+            "common": 329,
             "rare": 24,
             "epic": 0,
             "legendary": 0
@@ -31039,13 +31039,13 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 1106,
+            "common": 1108,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 148,
+            "common": 149,
             "rare": 11,
             "epic": 0,
             "legendary": 0
@@ -31065,7 +31065,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 1356,
+            "common": 1360,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31123,7 +31123,7 @@
             "legendary": 0
           },
           {
-            "common": 606,
+            "common": 608,
             "rare": 39,
             "epic": 0,
             "legendary": 0
@@ -31149,7 +31149,7 @@
             "legendary": 0
           },
           {
-            "common": 210,
+            "common": 212,
             "rare": 37,
             "epic": 0,
             "legendary": 0
@@ -31169,7 +31169,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 675,
+            "common": 680,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31195,7 +31195,7 @@
         ],
         "the_chalice": [
           {
-            "common": 401,
+            "common": 403,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31299,13 +31299,13 @@
         ],
         "aurelian_brooch": [
           {
-            "common": 281,
+            "common": 283,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 720,
+            "common": 724,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31325,7 +31325,7 @@
         ],
         "carved_rainstick": [
           {
-            "common": 691,
+            "common": 693,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31357,7 +31357,7 @@
             "legendary": 0
           },
           {
-            "common": 383,
+            "common": 386,
             "rare": 0,
             "epic": 12,
             "legendary": 0
@@ -31377,7 +31377,7 @@
         ],
         "quantum_metronome": [
           {
-            "common": 47,
+            "common": 48,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31455,7 +31455,7 @@
         ],
         "interstellar_compass": [
           {
-            "common": 566,
+            "common": 569,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31533,7 +31533,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 1288,
+            "common": 1291,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31611,7 +31611,7 @@
         ],
         "shell_stone": [
           {
-            "common": 216,
+            "common": 217,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31637,7 +31637,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 280,
+            "common": 281,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31741,7 +31741,7 @@
         ],
         "terra_stone": [
           {
-            "common": 36,
+            "common": 37,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31923,7 +31923,7 @@
         ],
         "gold_meteorite": [
           {
-            "common": 1150,
+            "common": 1154,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -31949,7 +31949,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 2685,
+            "common": 2696,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32105,7 +32105,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 3474,
+            "common": 3485,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32131,7 +32131,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1519,
+            "common": 1524,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32183,7 +32183,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 519,
+            "common": 523,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32235,7 +32235,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 1167,
+            "common": 1173,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32287,7 +32287,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 375,
+            "common": 378,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -32313,7 +32313,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 2216,
+            "common": 2225,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -33829,7 +33829,7 @@
   },
   "galeggtica": {
     "short": {
-      "count": 226071,
+      "count": 228582,
       "rewards": {
         "lunar_totem": [
           {
@@ -33839,8 +33839,8 @@
             "legendary": 0
           },
           {
-            "common": 4204,
-            "rare": 145,
+            "common": 4245,
+            "rare": 146,
             "epic": 0,
             "legendary": 0
           },
@@ -33859,13 +33859,13 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 16423,
+            "common": 16607,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 130,
+            "common": 133,
             "rare": 12,
             "epic": 0,
             "legendary": 0
@@ -33885,7 +33885,7 @@
         ],
         "beak_of_midas": [
           {
-            "common": 23671,
+            "common": 23946,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -33943,8 +33943,8 @@
             "legendary": 0
           },
           {
-            "common": 9602,
-            "rare": 319,
+            "common": 9713,
+            "rare": 326,
             "epic": 0,
             "legendary": 0
           },
@@ -33969,8 +33969,8 @@
             "legendary": 0
           },
           {
-            "common": 815,
-            "rare": 77,
+            "common": 823,
+            "rare": 78,
             "epic": 0,
             "legendary": 0
           },
@@ -33989,7 +33989,7 @@
         ],
         "ornate_gusset": [
           {
-            "common": 9549,
+            "common": 9663,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34015,7 +34015,7 @@
         ],
         "the_chalice": [
           {
-            "common": 3297,
+            "common": 3335,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34067,7 +34067,7 @@
         ],
         "phoenix_feather": [
           {
-            "common": 165,
+            "common": 166,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34093,13 +34093,13 @@
         ],
         "tungsten_ankh": [
           {
-            "common": 3723,
+            "common": 3760,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 116,
+            "common": 117,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34125,7 +34125,7 @@
             "legendary": 0
           },
           {
-            "common": 12748,
+            "common": 12889,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34145,7 +34145,7 @@
         ],
         "carved_rainstick": [
           {
-            "common": 7989,
+            "common": 8080,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34177,9 +34177,9 @@
             "legendary": 0
           },
           {
-            "common": 5457,
+            "common": 5513,
             "rare": 0,
-            "epic": 67,
+            "epic": 68,
             "legendary": 0
           },
           {
@@ -34275,7 +34275,7 @@
         ],
         "interstellar_compass": [
           {
-            "common": 5751,
+            "common": 5819,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34353,7 +34353,7 @@
         ],
         "mercurys_lens": [
           {
-            "common": 20880,
+            "common": 21109,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34379,7 +34379,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 1113,
+            "common": 1122,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34431,7 +34431,7 @@
         ],
         "shell_stone": [
           {
-            "common": 839,
+            "common": 845,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34457,7 +34457,7 @@
         ],
         "lunar_stone": [
           {
-            "common": 1033,
+            "common": 1042,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34769,7 +34769,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 32613,
+            "common": 32989,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34925,7 +34925,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 46619,
+            "common": 47131,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34951,7 +34951,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 5876,
+            "common": 5932,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -34977,7 +34977,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 108,
+            "common": 110,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -35003,7 +35003,7 @@
         ],
         "shell_stone_fragment": [
           {
-            "common": 1271,
+            "common": 1284,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -35055,7 +35055,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 2298,
+            "common": 2328,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -35107,7 +35107,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 104,
+            "common": 105,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -35133,7 +35133,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 8941,
+            "common": 9030,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36647,7 +36647,7 @@
       }
     },
     "epic": {
-      "count": 35840,
+      "count": 35945,
       "rewards": {
         "lunar_totem": [
           {
@@ -36663,7 +36663,7 @@
             "legendary": 0
           },
           {
-            "common": 533,
+            "common": 534,
             "rare": 51,
             "epic": 0,
             "legendary": 0
@@ -36677,7 +36677,7 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 746,
+            "common": 749,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36703,13 +36703,13 @@
         ],
         "beak_of_midas": [
           {
-            "common": 1111,
+            "common": 1115,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 368,
+            "common": 371,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36761,7 +36761,7 @@
             "legendary": 0
           },
           {
-            "common": 467,
+            "common": 468,
             "rare": 27,
             "epic": 0,
             "legendary": 0
@@ -36787,7 +36787,7 @@
             "legendary": 0
           },
           {
-            "common": 785,
+            "common": 788,
             "rare": 130,
             "epic": 0,
             "legendary": 0
@@ -36833,7 +36833,7 @@
         ],
         "the_chalice": [
           {
-            "common": 1895,
+            "common": 1901,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36885,7 +36885,7 @@
         ],
         "phoenix_feather": [
           {
-            "common": 663,
+            "common": 668,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36917,7 +36917,7 @@
             "legendary": 0
           },
           {
-            "common": 671,
+            "common": 673,
             "rare": 47,
             "epic": 0,
             "legendary": 0
@@ -36943,7 +36943,7 @@
             "legendary": 0
           },
           {
-            "common": 800,
+            "common": 806,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -36963,7 +36963,7 @@
         ],
         "carved_rainstick": [
           {
-            "common": 2036,
+            "common": 2041,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37015,7 +37015,7 @@
         ],
         "quantum_metronome": [
           {
-            "common": 433,
+            "common": 434,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37041,7 +37041,7 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 65,
+            "common": 66,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37093,13 +37093,13 @@
         ],
         "interstellar_compass": [
           {
-            "common": 1967,
+            "common": 1971,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 116,
+            "common": 117,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37119,7 +37119,7 @@
         ],
         "dilithium_monocle": [
           {
-            "common": 359,
+            "common": 360,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37145,7 +37145,7 @@
         ],
         "titanium_actuator": [
           {
-            "common": 333,
+            "common": 335,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37171,13 +37171,13 @@
         ],
         "mercurys_lens": [
           {
-            "common": 1043,
+            "common": 1044,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 256,
+            "common": 257,
             "rare": 38,
             "epic": 0,
             "legendary": 0
@@ -37197,7 +37197,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 208,
+            "common": 209,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37281,7 +37281,7 @@
             "legendary": 0
           },
           {
-            "common": 26,
+            "common": 27,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37353,7 +37353,7 @@
         ],
         "quantum_stone": [
           {
-            "common": 133,
+            "common": 134,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37379,7 +37379,7 @@
         ],
         "terra_stone": [
           {
-            "common": 249,
+            "common": 250,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37587,7 +37587,7 @@
         ],
         "tau_ceti_geode": [
           {
-            "common": 1626,
+            "common": 1627,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37743,7 +37743,7 @@
         ],
         "solar_titanium": [
           {
-            "common": 2716,
+            "common": 2722,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37769,7 +37769,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 1056,
+            "common": 1059,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37795,7 +37795,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 1959,
+            "common": 1965,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37873,7 +37873,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 2913,
+            "common": 2921,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37925,7 +37925,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 1857,
+            "common": 1867,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37951,7 +37951,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 2664,
+            "common": 2671,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -37977,7 +37977,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 1895,
+            "common": 1903,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -38003,7 +38003,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 417,
+            "common": 418,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39467,7 +39467,7 @@
   },
   "chickfiant": {
     "short": {
-      "count": 198180,
+      "count": 200280,
       "rewards": {
         "lunar_totem": [
           {
@@ -39483,8 +39483,8 @@
             "legendary": 0
           },
           {
-            "common": 7101,
-            "rare": 323,
+            "common": 7186,
+            "rare": 326,
             "epic": 0,
             "legendary": 0
           },
@@ -39497,19 +39497,19 @@
         ],
         "neodymium_medallion": [
           {
-            "common": 2601,
+            "common": 2633,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 8890,
-            "rare": 779,
+            "common": 8986,
+            "rare": 782,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 27,
+            "common": 28,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39523,13 +39523,13 @@
         ],
         "beak_of_midas": [
           {
-            "common": 6699,
+            "common": 6787,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 4705,
+            "common": 4756,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39581,14 +39581,14 @@
             "legendary": 0
           },
           {
-            "common": 2071,
+            "common": 2098,
             "rare": 77,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 2903,
-            "rare": 150,
+            "common": 2927,
+            "rare": 153,
             "epic": 35,
             "legendary": 0
           },
@@ -39607,8 +39607,8 @@
             "legendary": 0
           },
           {
-            "common": 8793,
-            "rare": 888,
+            "common": 8877,
+            "rare": 896,
             "epic": 0,
             "legendary": 0
           },
@@ -39633,9 +39633,9 @@
             "legendary": 0
           },
           {
-            "common": 6125,
+            "common": 6182,
             "rare": 0,
-            "epic": 60,
+            "epic": 61,
             "legendary": 0
           },
           {
@@ -39653,15 +39653,15 @@
         ],
         "the_chalice": [
           {
-            "common": 16660,
+            "common": 16846,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1890,
+            "common": 1912,
             "rare": 0,
-            "epic": 24,
+            "epic": 25,
             "legendary": 0
           },
           {
@@ -39705,7 +39705,7 @@
         ],
         "phoenix_feather": [
           {
-            "common": 8952,
+            "common": 9054,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39737,8 +39737,8 @@
             "legendary": 0
           },
           {
-            "common": 8788,
-            "rare": 376,
+            "common": 8892,
+            "rare": 381,
             "epic": 0,
             "legendary": 0
           },
@@ -39763,14 +39763,14 @@
             "legendary": 0
           },
           {
-            "common": 5121,
+            "common": 5177,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 227,
-            "rare": 16,
+            "common": 230,
+            "rare": 17,
             "epic": 3,
             "legendary": 0
           },
@@ -39783,13 +39783,13 @@
         ],
         "carved_rainstick": [
           {
-            "common": 13396,
+            "common": 13537,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1204,
+            "common": 1221,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39821,7 +39821,7 @@
             "legendary": 0
           },
           {
-            "common": 116,
+            "common": 117,
             "rare": 12,
             "epic": 0,
             "legendary": 0
@@ -39835,7 +39835,7 @@
         ],
         "quantum_metronome": [
           {
-            "common": 6193,
+            "common": 6259,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39861,7 +39861,7 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 1191,
+            "common": 1203,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39913,13 +39913,13 @@
         ],
         "interstellar_compass": [
           {
-            "common": 14913,
+            "common": 15074,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1623,
+            "common": 1638,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39939,7 +39939,7 @@
         ],
         "dilithium_monocle": [
           {
-            "common": 5048,
+            "common": 5102,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39965,7 +39965,7 @@
         ],
         "titanium_actuator": [
           {
-            "common": 4563,
+            "common": 4618,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -39991,14 +39991,14 @@
         ],
         "mercurys_lens": [
           {
-            "common": 5073,
+            "common": 5126,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 3389,
-            "rare": 354,
+            "common": 3414,
+            "rare": 356,
             "epic": 0,
             "legendary": 0
           },
@@ -40017,7 +40017,7 @@
         ],
         "tachyon_stone": [
           {
-            "common": 262,
+            "common": 265,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40095,13 +40095,13 @@
         ],
         "lunar_stone": [
           {
-            "common": 208,
+            "common": 210,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 125,
+            "common": 127,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40121,7 +40121,7 @@
         ],
         "soul_stone": [
           {
-            "common": 854,
+            "common": 858,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40173,7 +40173,7 @@
         ],
         "quantum_stone": [
           {
-            "common": 542,
+            "common": 555,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40199,7 +40199,7 @@
         ],
         "terra_stone": [
           {
-            "common": 908,
+            "common": 915,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40225,7 +40225,7 @@
         ],
         "life_stone": [
           {
-            "common": 211,
+            "common": 215,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40387,7 +40387,7 @@
             "legendary": 0
           },
           {
-            "common": 595,
+            "common": 598,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40563,13 +40563,13 @@
         ],
         "solar_titanium": [
           {
-            "common": 9944,
+            "common": 10023,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 606,
+            "common": 611,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40589,7 +40589,7 @@
         ],
         "tachyon_stone_fragment": [
           {
-            "common": 915,
+            "common": 930,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40615,7 +40615,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 6525,
+            "common": 6604,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40693,7 +40693,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 6142,
+            "common": 6193,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40719,7 +40719,7 @@
         ],
         "prophecy_stone_fragment": [
           {
-            "common": 365,
+            "common": 368,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40745,7 +40745,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 6496,
+            "common": 6558,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40771,7 +40771,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 4280,
+            "common": 4322,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40797,7 +40797,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 6351,
+            "common": 6418,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -40823,7 +40823,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 1437,
+            "common": 1451,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45105,7 +45105,7 @@
   },
   "voyegger": {
     "short": {
-      "count": 324990,
+      "count": 327690,
       "rewards": {
         "lunar_totem": [
           {
@@ -45121,13 +45121,13 @@
             "legendary": 0
           },
           {
-            "common": 9812,
-            "rare": 482,
+            "common": 9883,
+            "rare": 489,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 82,
+            "common": 83,
             "rare": 5,
             "epic": 0,
             "legendary": 0
@@ -45141,13 +45141,13 @@
             "legendary": 0
           },
           {
-            "common": 8829,
-            "rare": 763,
+            "common": 8909,
+            "rare": 769,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 2413,
+            "common": 2428,
             "rare": 0,
             "epic": 14,
             "legendary": 0
@@ -45161,19 +45161,19 @@
         ],
         "beak_of_midas": [
           {
-            "common": 4461,
+            "common": 4495,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 10209,
+            "common": 10289,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 503,
+            "common": 504,
             "rare": 40,
             "epic": 0,
             "legendary": 0
@@ -45187,7 +45187,7 @@
         ],
         "light_of_eggendil": [
           {
-            "common": 47,
+            "common": 48,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45225,9 +45225,9 @@
             "legendary": 0
           },
           {
-            "common": 10394,
-            "rare": 524,
-            "epic": 110,
+            "common": 10478,
+            "rare": 526,
+            "epic": 111,
             "legendary": 0
           },
           {
@@ -45245,13 +45245,13 @@
             "legendary": 0
           },
           {
-            "common": 8017,
-            "rare": 805,
+            "common": 8080,
+            "rare": 817,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 243,
+            "common": 245,
             "rare": 0,
             "epic": 3,
             "legendary": 0
@@ -45271,7 +45271,7 @@
             "legendary": 0
           },
           {
-            "common": 10418,
+            "common": 10489,
             "rare": 0,
             "epic": 121,
             "legendary": 0
@@ -45291,15 +45291,15 @@
         ],
         "the_chalice": [
           {
-            "common": 12958,
+            "common": 13072,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 8689,
+            "common": 8760,
             "rare": 0,
-            "epic": 133,
+            "epic": 134,
             "legendary": 0
           },
           {
@@ -45317,7 +45317,7 @@
         ],
         "book_of_basan": [
           {
-            "common": 130,
+            "common": 131,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45343,13 +45343,13 @@
         ],
         "phoenix_feather": [
           {
-            "common": 17868,
+            "common": 18003,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 2438,
+            "common": 2463,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45375,14 +45375,14 @@
             "legendary": 0
           },
           {
-            "common": 9139,
-            "rare": 331,
+            "common": 9205,
+            "rare": 334,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 363,
-            "rare": 24,
+            "common": 365,
+            "rare": 25,
             "epic": 0,
             "legendary": 0
           },
@@ -45401,15 +45401,15 @@
             "legendary": 0
           },
           {
-            "common": 3814,
+            "common": 3847,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 3864,
-            "rare": 408,
-            "epic": 42,
+            "common": 3898,
+            "rare": 410,
+            "epic": 43,
             "legendary": 0
           },
           {
@@ -45421,13 +45421,13 @@
         ],
         "carved_rainstick": [
           {
-            "common": 10420,
+            "common": 10509,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 6861,
+            "common": 6911,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45459,8 +45459,8 @@
             "legendary": 0
           },
           {
-            "common": 3297,
-            "rare": 329,
+            "common": 3329,
+            "rare": 332,
             "epic": 0,
             "legendary": 0
           },
@@ -45473,14 +45473,14 @@
         ],
         "quantum_metronome": [
           {
-            "common": 20987,
+            "common": 21176,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1676,
-            "rare": 101,
+            "common": 1687,
+            "rare": 104,
             "epic": 0,
             "legendary": 0
           },
@@ -45499,7 +45499,7 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 7104,
+            "common": 7147,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45525,7 +45525,7 @@
         ],
         "tachyon_deflector": [
           {
-            "common": 1126,
+            "common": 1132,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45551,13 +45551,13 @@
         ],
         "interstellar_compass": [
           {
-            "common": 11337,
+            "common": 11435,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 7716,
+            "common": 7784,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45577,13 +45577,13 @@
         ],
         "dilithium_monocle": [
           {
-            "common": 20836,
+            "common": 21016,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 418,
+            "common": 423,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45603,13 +45603,13 @@
         ],
         "titanium_actuator": [
           {
-            "common": 20928,
+            "common": 21109,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 212,
+            "common": 213,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45629,19 +45629,19 @@
         ],
         "mercurys_lens": [
           {
-            "common": 3110,
+            "common": 3147,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 10204,
-            "rare": 964,
+            "common": 10304,
+            "rare": 973,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 38,
+            "common": 39,
             "rare": 3,
             "epic": 0,
             "legendary": 0
@@ -45661,7 +45661,7 @@
             "legendary": 0
           },
           {
-            "common": 312,
+            "common": 313,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45681,7 +45681,7 @@
         ],
         "dilithium_stone": [
           {
-            "common": 267,
+            "common": 268,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45713,7 +45713,7 @@
             "legendary": 0
           },
           {
-            "common": 325,
+            "common": 332,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45739,7 +45739,7 @@
             "legendary": 0
           },
           {
-            "common": 732,
+            "common": 739,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45759,7 +45759,7 @@
         ],
         "soul_stone": [
           {
-            "common": 1112,
+            "common": 1121,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45811,7 +45811,7 @@
         ],
         "quantum_stone": [
           {
-            "common": 1133,
+            "common": 1142,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45837,7 +45837,7 @@
         ],
         "terra_stone": [
           {
-            "common": 1026,
+            "common": 1033,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -45863,7 +45863,7 @@
         ],
         "life_stone": [
           {
-            "common": 936,
+            "common": 945,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46025,7 +46025,7 @@
             "legendary": 0
           },
           {
-            "common": 15574,
+            "common": 15723,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46051,7 +46051,7 @@
             "legendary": 0
           },
           {
-            "common": 255,
+            "common": 256,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46207,7 +46207,7 @@
             "legendary": 0
           },
           {
-            "common": 9916,
+            "common": 10003,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46253,7 +46253,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 6375,
+            "common": 6422,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46331,7 +46331,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 4718,
+            "common": 4760,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46357,7 +46357,7 @@
         ],
         "prophecy_stone_fragment": [
           {
-            "common": 3495,
+            "common": 3524,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46383,7 +46383,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 6464,
+            "common": 6513,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46409,7 +46409,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 3095,
+            "common": 3125,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46435,7 +46435,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 6438,
+            "common": 6479,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -46461,7 +46461,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 6392,
+            "common": 6441,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -50743,7 +50743,7 @@
   },
   "henerprise": {
     "short": {
-      "count": 58770,
+      "count": 59760,
       "rewards": {
         "lunar_totem": [
           {
@@ -50759,13 +50759,13 @@
             "legendary": 0
           },
           {
-            "common": 1041,
+            "common": 1051,
             "rare": 64,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 258,
+            "common": 262,
             "rare": 10,
             "epic": 1,
             "legendary": 0
@@ -50779,13 +50779,13 @@
             "legendary": 0
           },
           {
-            "common": 895,
+            "common": 910,
             "rare": 95,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1150,
+            "common": 1168,
             "rare": 0,
             "epic": 8,
             "legendary": 0
@@ -50805,13 +50805,13 @@
             "legendary": 0
           },
           {
-            "common": 1236,
+            "common": 1261,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 508,
+            "common": 509,
             "rare": 51,
             "epic": 0,
             "legendary": 0
@@ -50825,7 +50825,7 @@
         ],
         "light_of_eggendil": [
           {
-            "common": 221,
+            "common": 224,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -50863,8 +50863,8 @@
             "legendary": 0
           },
           {
-            "common": 1540,
-            "rare": 88,
+            "common": 1563,
+            "rare": 89,
             "epic": 17,
             "legendary": 0
           },
@@ -50883,13 +50883,13 @@
             "legendary": 0
           },
           {
-            "common": 807,
+            "common": 819,
             "rare": 79,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 370,
+            "common": 381,
             "rare": 0,
             "epic": 3,
             "legendary": 0
@@ -50909,13 +50909,13 @@
             "legendary": 0
           },
           {
-            "common": 1061,
+            "common": 1087,
             "rare": 0,
             "epic": 14,
             "legendary": 0
           },
           {
-            "common": 267,
+            "common": 270,
             "rare": 23,
             "epic": 0,
             "legendary": 0
@@ -50929,20 +50929,20 @@
         ],
         "the_chalice": [
           {
-            "common": 1274,
+            "common": 1291,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1629,
+            "common": 1661,
             "rare": 0,
-            "epic": 27,
+            "epic": 28,
             "legendary": 0
           },
           {
-            "common": 209,
-            "rare": 21,
+            "common": 213,
+            "rare": 23,
             "epic": 2,
             "legendary": 0
           },
@@ -50955,7 +50955,7 @@
         ],
         "book_of_basan": [
           {
-            "common": 310,
+            "common": 313,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -50981,13 +50981,13 @@
         ],
         "phoenix_feather": [
           {
-            "common": 1818,
+            "common": 1845,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1109,
+            "common": 1128,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51013,14 +51013,14 @@
             "legendary": 0
           },
           {
-            "common": 962,
+            "common": 981,
             "rare": 37,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 414,
-            "rare": 43,
+            "common": 419,
+            "rare": 45,
             "epic": 0,
             "legendary": 2
           },
@@ -51039,14 +51039,14 @@
             "legendary": 0
           },
           {
-            "common": 277,
+            "common": 284,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1524,
-            "rare": 145,
+            "common": 1555,
+            "rare": 148,
             "epic": 23,
             "legendary": 0
           },
@@ -51059,19 +51059,19 @@
         ],
         "carved_rainstick": [
           {
-            "common": 927,
+            "common": 953,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1628,
+            "common": 1652,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 42,
+            "common": 46,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51097,8 +51097,8 @@
             "legendary": 0
           },
           {
-            "common": 1354,
-            "rare": 126,
+            "common": 1374,
+            "rare": 128,
             "epic": 0,
             "legendary": 0
           },
@@ -51111,14 +51111,14 @@
         ],
         "quantum_metronome": [
           {
-            "common": 2291,
+            "common": 2326,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 920,
-            "rare": 72,
+            "common": 936,
+            "rare": 74,
             "epic": 0,
             "legendary": 0
           },
@@ -51137,13 +51137,13 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 3172,
+            "common": 3227,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 77,
+            "common": 78,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51163,7 +51163,7 @@
         ],
         "tachyon_deflector": [
           {
-            "common": 583,
+            "common": 598,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51189,19 +51189,19 @@
         ],
         "interstellar_compass": [
           {
-            "common": 1036,
+            "common": 1048,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 1571,
+            "common": 1597,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 68,
+            "common": 69,
             "rare": 4,
             "epic": 0,
             "legendary": 0
@@ -51215,13 +51215,13 @@
         ],
         "dilithium_monocle": [
           {
-            "common": 2569,
+            "common": 2605,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 431,
+            "common": 440,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51241,13 +51241,13 @@
         ],
         "titanium_actuator": [
           {
-            "common": 2561,
+            "common": 2602,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 382,
+            "common": 389,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51273,13 +51273,13 @@
             "legendary": 0
           },
           {
-            "common": 1328,
-            "rare": 155,
+            "common": 1352,
+            "rare": 156,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 201,
+            "common": 205,
             "rare": 24,
             "epic": 0,
             "legendary": 0
@@ -51299,7 +51299,7 @@
             "legendary": 0
           },
           {
-            "common": 131,
+            "common": 134,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51319,7 +51319,7 @@
         ],
         "dilithium_stone": [
           {
-            "common": 115,
+            "common": 116,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51351,7 +51351,7 @@
             "legendary": 0
           },
           {
-            "common": 143,
+            "common": 146,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51377,7 +51377,7 @@
             "legendary": 0
           },
           {
-            "common": 175,
+            "common": 176,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51397,7 +51397,7 @@
         ],
         "soul_stone": [
           {
-            "common": 103,
+            "common": 104,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51449,13 +51449,13 @@
         ],
         "quantum_stone": [
           {
-            "common": 142,
+            "common": 145,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 76,
+            "common": 78,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51475,13 +51475,13 @@
         ],
         "terra_stone": [
           {
-            "common": 110,
+            "common": 114,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 61,
+            "common": 62,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51501,7 +51501,7 @@
         ],
         "life_stone": [
           {
-            "common": 185,
+            "common": 189,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51527,7 +51527,7 @@
         ],
         "clarity_stone": [
           {
-            "common": 36,
+            "common": 37,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51663,7 +51663,7 @@
             "legendary": 0
           },
           {
-            "common": 6458,
+            "common": 6569,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51689,7 +51689,7 @@
             "legendary": 0
           },
           {
-            "common": 787,
+            "common": 791,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51845,7 +51845,7 @@
             "legendary": 0
           },
           {
-            "common": 3947,
+            "common": 4018,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51891,7 +51891,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 671,
+            "common": 683,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51969,7 +51969,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 456,
+            "common": 465,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -51995,7 +51995,7 @@
         ],
         "prophecy_stone_fragment": [
           {
-            "common": 1220,
+            "common": 1245,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52021,7 +52021,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 693,
+            "common": 706,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52047,7 +52047,7 @@
         ],
         "terra_stone_fragment": [
           {
-            "common": 236,
+            "common": 241,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52073,7 +52073,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 648,
+            "common": 654,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52099,7 +52099,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 1214,
+            "common": 1239,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52152,7 +52152,7 @@
       }
     },
     "long": {
-      "count": 19200,
+      "count": 19450,
       "rewards": {
         "lunar_totem": [
           {
@@ -52168,13 +52168,13 @@
             "legendary": 0
           },
           {
-            "common": 208,
+            "common": 210,
             "rare": 13,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 227,
+            "common": 231,
             "rare": 19,
             "epic": 1,
             "legendary": 0
@@ -52189,12 +52189,12 @@
           },
           {
             "common": 163,
-            "rare": 23,
+            "rare": 24,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 447,
+            "common": 454,
             "rare": 0,
             "epic": 7,
             "legendary": 0
@@ -52214,13 +52214,13 @@
             "legendary": 0
           },
           {
-            "common": 236,
+            "common": 237,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 291,
+            "common": 294,
             "rare": 42,
             "epic": 0,
             "legendary": 0
@@ -52234,7 +52234,7 @@
         ],
         "light_of_eggendil": [
           {
-            "common": 218,
+            "common": 222,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52272,7 +52272,7 @@
             "legendary": 0
           },
           {
-            "common": 259,
+            "common": 262,
             "rare": 16,
             "epic": 7,
             "legendary": 0
@@ -52292,13 +52292,13 @@
             "legendary": 0
           },
           {
-            "common": 127,
+            "common": 128,
             "rare": 18,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 298,
+            "common": 304,
             "rare": 0,
             "epic": 2,
             "legendary": 0
@@ -52324,7 +52324,7 @@
             "legendary": 0
           },
           {
-            "common": 239,
+            "common": 244,
             "rare": 42,
             "epic": 0,
             "legendary": 0
@@ -52338,19 +52338,19 @@
         ],
         "the_chalice": [
           {
-            "common": 208,
+            "common": 209,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 306,
+            "common": 313,
             "rare": 0,
             "epic": 1,
             "legendary": 0
           },
           {
-            "common": 229,
+            "common": 233,
             "rare": 26,
             "epic": 3,
             "legendary": 0
@@ -52364,7 +52364,7 @@
         ],
         "book_of_basan": [
           {
-            "common": 274,
+            "common": 275,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52390,19 +52390,19 @@
         ],
         "phoenix_feather": [
           {
-            "common": 337,
+            "common": 340,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 410,
+            "common": 416,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 67,
+            "common": 68,
             "rare": 8,
             "epic": 0,
             "legendary": 0
@@ -52422,13 +52422,13 @@
             "legendary": 0
           },
           {
-            "common": 182,
+            "common": 183,
             "rare": 18,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 302,
+            "common": 308,
             "rare": 42,
             "epic": 0,
             "legendary": 0
@@ -52454,8 +52454,8 @@
             "legendary": 0
           },
           {
-            "common": 392,
-            "rare": 49,
+            "common": 399,
+            "rare": 50,
             "epic": 8,
             "legendary": 0
           },
@@ -52468,19 +52468,19 @@
         ],
         "carved_rainstick": [
           {
-            "common": 131,
-            "rare": 0,
-            "epic": 0,
-            "legendary": 0
-          },
-          {
-            "common": 309,
-            "rare": 0,
-            "epic": 0,
-            "legendary": 0
-          },
-          {
             "common": 133,
+            "rare": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          {
+            "common": 316,
+            "rare": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          {
+            "common": 134,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52506,7 +52506,7 @@
             "legendary": 0
           },
           {
-            "common": 431,
+            "common": 437,
             "rare": 58,
             "epic": 0,
             "legendary": 0
@@ -52520,13 +52520,13 @@
         ],
         "quantum_metronome": [
           {
-            "common": 438,
+            "common": 442,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 400,
+            "common": 405,
             "rare": 39,
             "epic": 0,
             "legendary": 0
@@ -52546,13 +52546,13 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 667,
+            "common": 672,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 158,
+            "common": 161,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52572,7 +52572,7 @@
         ],
         "tachyon_deflector": [
           {
-            "common": 573,
+            "common": 579,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52598,19 +52598,19 @@
         ],
         "interstellar_compass": [
           {
-            "common": 166,
+            "common": 171,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 320,
+            "common": 326,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 153,
+            "common": 155,
             "rare": 19,
             "epic": 0,
             "legendary": 0
@@ -52624,13 +52624,13 @@
         ],
         "dilithium_monocle": [
           {
-            "common": 470,
+            "common": 479,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 304,
+            "common": 309,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52650,19 +52650,19 @@
         ],
         "titanium_actuator": [
           {
-            "common": 459,
+            "common": 467,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 269,
+            "common": 274,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 0,
+            "common": 1,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52682,13 +52682,13 @@
             "legendary": 0
           },
           {
-            "common": 300,
-            "rare": 29,
+            "common": 304,
+            "rare": 30,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 234,
+            "common": 236,
             "rare": 16,
             "epic": 0,
             "legendary": 0
@@ -52760,7 +52760,7 @@
             "legendary": 0
           },
           {
-            "common": 81,
+            "common": 82,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52858,13 +52858,13 @@
         ],
         "quantum_stone": [
           {
-            "common": 62,
+            "common": 63,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 83,
+            "common": 86,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -52890,7 +52890,7 @@
             "legendary": 0
           },
           {
-            "common": 71,
+            "common": 72,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53072,7 +53072,7 @@
             "legendary": 0
           },
           {
-            "common": 1940,
+            "common": 1968,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53098,7 +53098,7 @@
             "legendary": 0
           },
           {
-            "common": 750,
+            "common": 757,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53254,7 +53254,7 @@
             "legendary": 0
           },
           {
-            "common": 1143,
+            "common": 1153,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53300,7 +53300,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 297,
+            "common": 303,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53378,7 +53378,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 187,
+            "common": 191,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53404,7 +53404,7 @@
         ],
         "prophecy_stone_fragment": [
           {
-            "common": 687,
+            "common": 701,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53430,7 +53430,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 302,
+            "common": 307,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53482,7 +53482,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 327,
+            "common": 330,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53508,7 +53508,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 486,
+            "common": 491,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53561,7 +53561,7 @@
       }
     },
     "epic": {
-      "count": 1534008,
+      "count": 1563744,
       "rewards": {
         "lunar_totem": [
           {
@@ -53577,15 +53577,15 @@
             "legendary": 0
           },
           {
-            "common": 9087,
-            "rare": 846,
+            "common": 9255,
+            "rare": 863,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 25921,
-            "rare": 2349,
-            "epic": 294,
+            "common": 26429,
+            "rare": 2382,
+            "epic": 302,
             "legendary": 0
           }
         ],
@@ -53597,21 +53597,21 @@
             "legendary": 0
           },
           {
-            "common": 7625,
-            "rare": 1016,
+            "common": 7764,
+            "rare": 1041,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 24483,
+            "common": 24975,
             "rare": 0,
-            "epic": 454,
+            "epic": 461,
             "legendary": 0
           },
           {
-            "common": 11164,
-            "rare": 1785,
-            "epic": 264,
+            "common": 11389,
+            "rare": 1826,
+            "epic": 268,
             "legendary": 39
           }
         ],
@@ -53623,40 +53623,40 @@
             "legendary": 0
           },
           {
-            "common": 11462,
+            "common": 11671,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 26844,
-            "rare": 3887,
+            "common": 27393,
+            "rare": 3960,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 5217,
-            "rare": 611,
+            "common": 5324,
+            "rare": 617,
             "epic": 0,
             "legendary": 19
           }
         ],
         "light_of_eggendil": [
           {
-            "common": 24816,
+            "common": 25311,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 8655,
-            "rare": 925,
+            "common": 8824,
+            "rare": 941,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 189,
-            "rare": 15,
+            "common": 190,
+            "rare": 17,
             "epic": 0,
             "legendary": 0
           },
@@ -53681,9 +53681,9 @@
             "legendary": 0
           },
           {
-            "common": 14093,
-            "rare": 1272,
-            "epic": 327,
+            "common": 14356,
+            "rare": 1297,
+            "epic": 332,
             "legendary": 0
           },
           {
@@ -53701,19 +53701,19 @@
             "legendary": 0
           },
           {
-            "common": 5978,
-            "rare": 936,
+            "common": 6101,
+            "rare": 953,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 27027,
+            "common": 27563,
             "rare": 0,
-            "epic": 685,
+            "epic": 696,
             "legendary": 0
           },
           {
-            "common": 885,
+            "common": 908,
             "rare": 125,
             "epic": 0,
             "legendary": 2
@@ -53727,19 +53727,19 @@
             "legendary": 0
           },
           {
-            "common": 9852,
+            "common": 10057,
             "rare": 0,
-            "epic": 216,
+            "epic": 221,
             "legendary": 0
           },
           {
-            "common": 26367,
-            "rare": 4126,
+            "common": 26861,
+            "rare": 4203,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 239,
+            "common": 245,
             "rare": 0,
             "epic": 9,
             "legendary": 3
@@ -53747,25 +53747,25 @@
         ],
         "the_chalice": [
           {
-            "common": 7974,
+            "common": 8111,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 15639,
+            "common": 15954,
             "rare": 0,
-            "epic": 466,
+            "epic": 477,
             "legendary": 0
           },
           {
-            "common": 25121,
-            "rare": 3810,
-            "epic": 665,
+            "common": 25622,
+            "rare": 3880,
+            "epic": 678,
             "legendary": 0
           },
           {
-            "common": 845,
+            "common": 866,
             "rare": 0,
             "epic": 26,
             "legendary": 1
@@ -53773,19 +53773,19 @@
         ],
         "book_of_basan": [
           {
-            "common": 27181,
+            "common": 27675,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 4678,
+            "common": 4780,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 52,
+            "common": 53,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -53799,20 +53799,20 @@
         ],
         "phoenix_feather": [
           {
-            "common": 15140,
+            "common": 15442,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 24472,
+            "common": 24922,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 14030,
-            "rare": 2174,
+            "common": 14348,
+            "rare": 2223,
             "epic": 0,
             "legendary": 0
           },
@@ -53831,14 +53831,14 @@
             "legendary": 0
           },
           {
-            "common": 7563,
-            "rare": 586,
+            "common": 7698,
+            "rare": 598,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 27082,
-            "rare": 4284,
+            "common": 27578,
+            "rare": 4367,
             "epic": 0,
             "legendary": 98
           },
@@ -53863,16 +53863,16 @@
             "legendary": 0
           },
           {
-            "common": 21863,
-            "rare": 3428,
-            "epic": 511,
+            "common": 22274,
+            "rare": 3503,
+            "epic": 519,
             "legendary": 0
           },
           {
-            "common": 11124,
-            "rare": 1786,
-            "epic": 291,
-            "legendary": 46
+            "common": 11353,
+            "rare": 1804,
+            "epic": 294,
+            "legendary": 47
           }
         ],
         "carved_rainstick": [
@@ -53883,21 +53883,21 @@
             "legendary": 0
           },
           {
-            "common": 17611,
+            "common": 17928,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 19276,
+            "common": 19674,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 165,
+            "common": 170,
             "rare": 0,
-            "epic": 6,
+            "epic": 7,
             "legendary": 1
           }
         ],
@@ -53915,35 +53915,35 @@
             "legendary": 0
           },
           {
-            "common": 22709,
-            "rare": 3558,
+            "common": 23179,
+            "rare": 3621,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 3670,
-            "rare": 607,
-            "epic": 105,
-            "legendary": 12
+            "common": 3738,
+            "rare": 619,
+            "epic": 106,
+            "legendary": 13
           }
         ],
         "quantum_metronome": [
           {
-            "common": 19541,
+            "common": 19944,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 26410,
-            "rare": 2947,
+            "common": 26931,
+            "rare": 3006,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 8705,
-            "rare": 1391,
-            "epic": 243,
+            "common": 8873,
+            "rare": 1403,
+            "epic": 249,
             "legendary": 0
           },
           {
@@ -53955,20 +53955,20 @@
         ],
         "ship_in_a_bottle": [
           {
-            "common": 34648,
+            "common": 35301,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 20793,
+            "common": 21206,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 2279,
-            "rare": 345,
+            "common": 2334,
+            "rare": 355,
             "epic": 0,
             "legendary": 0
           },
@@ -53981,19 +53981,19 @@
         ],
         "tachyon_deflector": [
           {
-            "common": 40328,
+            "common": 41110,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 8819,
+            "common": 8987,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 154,
+            "common": 156,
             "rare": 22,
             "epic": 0,
             "legendary": 0
@@ -54013,39 +54013,39 @@
             "legendary": 0
           },
           {
-            "common": 16369,
+            "common": 16696,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 20049,
-            "rare": 3111,
+            "common": 20446,
+            "rare": 3176,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 515,
-            "rare": 68,
+            "common": 527,
+            "rare": 72,
             "epic": 14,
             "legendary": 1
           }
         ],
         "dilithium_monocle": [
           {
-            "common": 22114,
+            "common": 22553,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 27340,
+            "common": 27880,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 6146,
+            "common": 6263,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54059,20 +54059,20 @@
         ],
         "titanium_actuator": [
           {
-            "common": 22849,
+            "common": 23281,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 27444,
+            "common": 27964,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 4858,
-            "rare": 761,
+            "common": 4979,
+            "rare": 775,
             "epic": 0,
             "legendary": 0
           },
@@ -54091,14 +54091,14 @@
             "legendary": 0
           },
           {
-            "common": 13183,
-            "rare": 2060,
+            "common": 13440,
+            "rare": 2101,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 24920,
-            "rare": 4067,
+            "common": 25384,
+            "rare": 4135,
             "epic": 0,
             "legendary": 0
           },
@@ -54117,7 +54117,7 @@
             "legendary": 0
           },
           {
-            "common": 10257,
+            "common": 10444,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54137,13 +54137,13 @@
         ],
         "dilithium_stone": [
           {
-            "common": 10717,
+            "common": 10950,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 3821,
+            "common": 3887,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54169,13 +54169,13 @@
             "legendary": 0
           },
           {
-            "common": 10325,
+            "common": 10528,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 173,
+            "common": 176,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54195,13 +54195,13 @@
             "legendary": 0
           },
           {
-            "common": 7817,
+            "common": 7953,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 556,
+            "common": 569,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54215,19 +54215,19 @@
         ],
         "soul_stone": [
           {
-            "common": 3615,
+            "common": 3683,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 4269,
+            "common": 4350,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 55,
+            "common": 56,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54241,13 +54241,13 @@
         ],
         "prophecy_stone": [
           {
-            "common": 5596,
+            "common": 5697,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 74,
+            "common": 76,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54267,13 +54267,13 @@
         ],
         "quantum_stone": [
           {
-            "common": 5160,
+            "common": 5282,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 12139,
+            "common": 12317,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54293,13 +54293,13 @@
         ],
         "terra_stone": [
           {
-            "common": 3689,
+            "common": 3762,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 12165,
+            "common": 12378,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54319,13 +54319,13 @@
         ],
         "life_stone": [
           {
-            "common": 6792,
+            "common": 6923,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 5773,
+            "common": 5895,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54345,13 +54345,13 @@
         ],
         "clarity_stone": [
           {
-            "common": 9251,
+            "common": 9403,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 367,
+            "common": 375,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54481,13 +54481,13 @@
             "legendary": 0
           },
           {
-            "common": 133938,
+            "common": 136575,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 9794,
+            "common": 9990,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54507,7 +54507,7 @@
             "legendary": 0
           },
           {
-            "common": 102933,
+            "common": 104927,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54663,13 +54663,13 @@
             "legendary": 0
           },
           {
-            "common": 79730,
+            "common": 81283,
             "rare": 0,
             "epic": 0,
             "legendary": 0
           },
           {
-            "common": 4398,
+            "common": 4479,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54709,7 +54709,7 @@
         ],
         "dilithium_stone_fragment": [
           {
-            "common": 21832,
+            "common": 22230,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54787,7 +54787,7 @@
         ],
         "soul_stone_fragment": [
           {
-            "common": 11300,
+            "common": 11519,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54813,7 +54813,7 @@
         ],
         "prophecy_stone_fragment": [
           {
-            "common": 58028,
+            "common": 59113,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54839,7 +54839,7 @@
         ],
         "quantum_stone_fragment": [
           {
-            "common": 21680,
+            "common": 22128,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54891,7 +54891,7 @@
         ],
         "life_stone_fragment": [
           {
-            "common": 21621,
+            "common": 22039,
             "rare": 0,
             "epic": 0,
             "legendary": 0
@@ -54917,7 +54917,7 @@
         ],
         "clarity_stone_fragment": [
           {
-            "common": 44805,
+            "common": 45674,
             "rare": 0,
             "epic": 0,
             "legendary": 0

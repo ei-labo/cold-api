@@ -24,14 +24,14 @@
               "common": 21
             }
           },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
           "vial_martian_dust": {
             "0": {
               "common": 5
+            }
+          },
+          "lunar_stone_fragment": {
+            "0": {
+              "common": 6
             }
           }
         }
@@ -59,11 +59,6 @@
       "0": {
         "count": 54,
         "rewards": {
-          "puzzle_cube": {
-            "0": {
-              "common": 11
-            }
-          },
           "demeters_necklace": {
             "0": {
               "common": 27
@@ -72,6 +67,11 @@
           "lunar_totem": {
             "0": {
               "common": 14
+            }
+          },
+          "puzzle_cube": {
+            "0": {
+              "common": 11
             }
           },
           "lunar_stone_fragment": {
@@ -256,26 +256,26 @@
         }
       },
       "1": {
-        "count": 40,
+        "count": 85,
         "rewards": {
           "gold_meteorite": {
             "0": {
-              "common": 18
+              "common": 42
             }
           },
           "lunar_stone_fragment": {
             "0": {
-              "common": 13
+              "common": 19
             }
           },
           "vial_martian_dust": {
             "0": {
-              "common": 2
+              "common": 5
             }
           },
           "demeters_necklace": {
             "0": {
-              "common": 1
+              "common": 6
             }
           },
           "tungsten_ankh": {
@@ -285,16 +285,21 @@
           },
           "puzzle_cube": {
             "0": {
-              "common": 3
+              "common": 7
             }
           },
           "shell_stone_fragment": {
             "0": {
-              "common": 1
+              "common": 2
             }
           },
           "aurelian_brooch": {
             "0": {
+              "common": 2
+            }
+          },
+          "lunar_totem": {
+            "1": {
               "common": 1
             }
           }
@@ -303,29 +308,9 @@
       "2": {
         "count": 127,
         "rewards": {
-          "gold_meteorite": {
-            "0": {
-              "common": 61
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 7
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 5
-            }
-          },
           "lunar_stone_fragment": {
             "0": {
               "common": 22
-            }
-          },
-          "lunar_totem": {
-            "0": {
-              "common": 8
             }
           },
           "demeters_necklace": {
@@ -333,9 +318,19 @@
               "common": 14
             }
           },
-          "aurelian_brooch": {
+          "shell_stone_fragment": {
             "0": {
-              "common": 2
+              "common": 7
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 61
+            }
+          },
+          "lunar_totem": {
+            "0": {
+              "common": 8
             }
           },
           "puzzle_cube": {
@@ -343,9 +338,19 @@
               "common": 2
             }
           },
+          "tungsten_ankh": {
+            "0": {
+              "common": 5
+            }
+          },
           "vial_martian_dust": {
             "0": {
               "common": 6
+            }
+          },
+          "aurelian_brooch": {
+            "0": {
+              "common": 2
             }
           }
         }
@@ -355,59 +360,59 @@
   "henerprise": {
     "short": {
       "5": {
-        "count": 17640,
+        "count": 17955,
         "rewards": {
           "gold_meteorite": {
             "1": {
-              "common": 1972
+              "common": 1995
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 343,
+              "common": 353,
               "rare": 18
             },
             "3": {
-              "common": 78,
+              "common": 82,
               "rare": 2
             }
           },
           "tungsten_ankh": {
             "1": {
-              "common": 315,
+              "common": 319,
               "rare": 12
             },
             "2": {
-              "common": 128,
+              "common": 131,
               "rare": 11,
               "legendary": 2
             }
           },
           "mercurys_lens": {
             "1": {
-              "common": 433,
+              "common": 439,
               "rare": 45
             },
             "2": {
-              "common": 72,
+              "common": 73,
               "rare": 10
             }
           },
           "quantum_metronome": {
             "0": {
-              "common": 741
+              "common": 752
             },
             "1": {
-              "common": 293,
+              "common": 303,
               "rare": 21
             }
           },
           "the_chalice": {
             "0": {
-              "common": 369
+              "common": 378
             },
             "1": {
-              "common": 496,
+              "common": 507,
               "epic": 6
             },
             "2": {
@@ -418,7 +423,7 @@
           },
           "beak_of_midas": {
             "1": {
-              "common": 369
+              "common": 374
             },
             "2": {
               "common": 155,
@@ -427,10 +432,10 @@
           },
           "carved_rainstick": {
             "0": {
-              "common": 294
+              "common": 301
             },
             "1": {
-              "common": 542
+              "common": 549
             },
             "2": {
               "common": 25
@@ -443,30 +448,30 @@
           },
           "life_stone_fragment": {
             "0": {
-              "common": 87
+              "common": 90
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 1228
+              "common": 1251
             }
           },
           "neodymium_medallion": {
             "2": {
-              "common": 357,
+              "common": 363,
               "epic": 1
             },
             "1": {
-              "common": 313,
-              "rare": 20
+              "common": 318,
+              "rare": 21
             }
           },
           "interstellar_compass": {
             "1": {
-              "common": 505
+              "common": 520
             },
             "0": {
-              "common": 316
+              "common": 322
             },
             "2": {
               "rare": 3,
@@ -475,65 +480,65 @@
           },
           "phoenix_feather": {
             "1": {
-              "common": 365
+              "common": 373
             },
             "0": {
-              "common": 577
+              "common": 588
             }
           },
           "titanium_actuator": {
             "0": {
-              "common": 809
+              "common": 825
             },
             "1": {
-              "common": 119
+              "common": 122
             }
           },
           "ornate_gusset": {
             "1": {
-              "common": 362,
+              "common": 366,
               "epic": 5
             },
             "2": {
               "rare": 11,
-              "common": 91
+              "common": 93
             }
           },
           "vial_martian_dust": {
             "1": {
-              "common": 228,
+              "common": 233,
               "rare": 21
             },
             "2": {
-              "common": 122
+              "common": 125
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 293
+              "common": 295
             }
           },
           "dilithium_monocle": {
             "1": {
-              "common": 151
+              "common": 152
             },
             "0": {
-              "common": 690
+              "common": 710
             }
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 218
+              "common": 224
             }
           },
           "tachyon_deflector": {
             "0": {
-              "common": 188
+              "common": 193
             }
           },
           "ship_in_a_bottle": {
             "0": {
-              "common": 1026
+              "common": 1042
             },
             "1": {
               "common": 22
@@ -541,14 +546,14 @@
           },
           "puzzle_cube": {
             "2": {
-              "common": 419,
+              "common": 429,
               "rare": 50
             }
           },
           "demeters_necklace": {
             "2": {
               "rare": 29,
-              "common": 442,
+              "common": 450,
               "epic": 7
             },
             "3": {
@@ -557,7 +562,7 @@
           },
           "aurelian_brooch": {
             "2": {
-              "common": 486,
+              "common": 492,
               "rare": 49,
               "epic": 3
             },
@@ -577,12 +582,12 @@
           },
           "quantum_stone_fragment": {
             "0": {
-              "common": 42
+              "common": 43
             }
           },
           "terra_stone": {
             "0": {
-              "common": 34
+              "common": 36
             },
             "1": {
               "common": 12
@@ -590,12 +595,12 @@
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 285
+              "common": 289
             }
           },
           "tachyon_stone": {
             "1": {
-              "common": 50
+              "common": 51
             }
           },
           "dilithium_stone_fragment": {
@@ -605,7 +610,7 @@
           },
           "dilithium_stone": {
             "0": {
-              "common": 40
+              "common": 41
             }
           },
           "terra_stone_fragment": {
@@ -620,25 +625,25 @@
           },
           "book_of_basan": {
             "0": {
-              "common": 76
+              "common": 79
             }
           },
           "quantum_stone": {
             "0": {
-              "common": 49
+              "common": 51
             },
             "1": {
-              "common": 25
+              "common": 26
             }
           },
           "life_stone": {
             "0": {
-              "common": 53
+              "common": 54
             }
           },
           "shell_stone": {
             "1": {
-              "common": 36
+              "common": 39
             }
           },
           "clarity_stone": {
@@ -810,8 +815,8 @@
           "demeters_necklace": {
             "2": {
               "common": 61,
-              "epic": 1,
-              "rare": 1
+              "rare": 1,
+              "epic": 1
             },
             "3": {
               "common": 1
@@ -873,27 +878,32 @@
               "common": 7
             }
           },
+          "dilithium_stone_fragment": {
+            "0": {
+              "common": 14
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 10
+            }
+          },
+          "terra_stone": {
+            "0": {
+              "common": 5
+            },
+            "1": {
+              "common": 3
+            }
+          },
           "book_of_basan": {
             "0": {
               "common": 11
             }
           },
-          "dilithium_stone": {
+          "life_stone": {
             "0": {
-              "common": 6
-            }
-          },
-          "terra_stone": {
-            "1": {
-              "common": 3
-            },
-            "0": {
-              "common": 5
-            }
-          },
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 14
+              "common": 7
             }
           },
           "quantum_stone": {
@@ -904,19 +914,14 @@
               "common": 1
             }
           },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 10
-            }
-          },
           "lunar_stone": {
             "1": {
               "common": 5
             }
           },
-          "life_stone": {
+          "dilithium_stone": {
             "0": {
-              "common": 7
+              "common": 6
             }
           },
           "shell_stone": {
@@ -1193,149 +1198,149 @@
               "common": 8
             }
           },
-          "terra_stone": {
-            "1": {
-              "common": 3
-            },
-            "0": {
-              "common": 2
-            }
-          },
           "soul_stone": {
             "0": {
               "common": 6
             }
           },
-          "dilithium_stone": {
+          "terra_stone": {
             "0": {
-              "common": 5
+              "common": 2
+            },
+            "1": {
+              "common": 3
             }
           },
           "clarity_stone": {
             "0": {
               "common": 2
             }
+          },
+          "dilithium_stone": {
+            "0": {
+              "common": 5
+            }
           }
         }
       },
       "6": {
-        "count": 13439,
+        "count": 15503,
         "rewards": {
           "tau_ceti_geode": {
             "1": {
-              "common": 201
+              "common": 220
             }
           },
           "ship_in_a_bottle": {
             "0": {
-              "common": 768
+              "common": 881
             },
             "1": {
-              "common": 28
+              "common": 29
             }
           },
           "interstellar_compass": {
             "1": {
-              "common": 350
+              "common": 418
             },
             "0": {
-              "common": 256
+              "common": 300
             },
             "2": {
-              "common": 11,
+              "common": 14,
               "rare": 2
             }
           },
           "ornate_gusset": {
             "1": {
-              "common": 295,
-              "epic": 1
+              "common": 337,
+              "epic": 2
             },
             "2": {
-              "common": 64,
+              "common": 73,
               "rare": 12
             }
           },
           "neodymium_medallion": {
             "2": {
-              "common": 249,
+              "common": 284,
               "epic": 3
             },
             "1": {
-              "common": 226,
-              "rare": 11
+              "common": 256,
+              "rare": 12
             }
           },
           "quantum_stone_fragment": {
             "0": {
-              "common": 29
+              "common": 32
             }
           },
           "quantum_metronome": {
             "0": {
-              "common": 542
+              "common": 627
             },
             "1": {
-              "common": 211,
+              "common": 240,
               "rare": 17
             }
           },
           "aurelian_brooch": {
             "2": {
-              "common": 342,
-              "rare": 40,
+              "common": 402,
+              "rare": 46,
               "epic": 2
             },
             "1": {
-              "common": 76
+              "common": 87
             }
           },
           "dilithium_monocle": {
             "0": {
-              "common": 579
+              "common": 666
             },
             "1": {
-              "common": 104
+              "common": 116
             }
           },
           "life_stone_fragment": {
             "0": {
-              "common": 66
+              "common": 76
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 920
+              "common": 1080
             }
           },
           "shell_stone": {
             "1": {
-              "common": 33
+              "common": 40
             }
           },
           "mercurys_lens": {
             "1": {
-              "common": 372,
-              "rare": 31
+              "common": 423,
+              "rare": 36
             },
             "2": {
-              "common": 65,
-              "rare": 5
+              "common": 76,
+              "rare": 6
             }
           },
           "titanium_actuator": {
             "0": {
-              "common": 612
+              "common": 711
             },
             "1": {
-              "common": 90
+              "common": 102
             }
           },
           "demeters_necklace": {
             "2": {
-              "common": 354,
-              "rare": 17,
-              "epic": 5
+              "common": 403,
+              "rare": 24,
+              "epic": 6
             },
             "3": {
               "common": 7,
@@ -1344,175 +1349,175 @@
           },
           "carved_rainstick": {
             "1": {
-              "common": 390
+              "common": 467
             },
             "0": {
-              "common": 215
+              "common": 247
             },
             "2": {
-              "common": 10
+              "common": 11
             }
           },
           "tachyon_deflector": {
             "0": {
-              "common": 169
+              "common": 183
             }
           },
           "gold_meteorite": {
             "1": {
-              "common": 1464
+              "common": 1708
             }
           },
           "phoenix_feather": {
             "1": {
-              "common": 273
+              "common": 318
             },
             "0": {
-              "common": 441
+              "common": 501
             }
           },
           "terra_stone": {
             "0": {
-              "common": 26
+              "common": 28
             },
             "1": {
-              "common": 8
+              "common": 10
             }
           },
           "beak_of_midas": {
             "2": {
-              "common": 113,
+              "common": 129,
               "rare": 9
             },
             "1": {
-              "common": 306
+              "common": 344
             }
           },
           "quantum_stone": {
             "0": {
-              "common": 42
+              "common": 48
             },
             "1": {
-              "common": 27
+              "common": 28
             }
           },
           "the_chalice": {
             "1": {
-              "common": 368,
-              "epic": 4
+              "common": 434,
+              "epic": 5
             },
             "0": {
-              "common": 294
+              "common": 348
             },
             "2": {
-              "common": 50,
+              "common": 56,
               "rare": 2,
               "epic": 1
             }
           },
           "tungsten_ankh": {
             "1": {
-              "common": 229,
-              "rare": 11
+              "common": 258,
+              "rare": 14
             },
             "2": {
-              "common": 104,
-              "rare": 13
+              "common": 120,
+              "rare": 15
             }
           },
           "soul_stone": {
             "0": {
-              "common": 29
+              "common": 35
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 221,
-              "rare": 16
+              "common": 272,
+              "rare": 18
             },
             "3": {
-              "common": 60,
-              "rare": 4,
+              "common": 69,
+              "rare": 5,
               "epic": 1
             }
           },
           "puzzle_cube": {
             "2": {
-              "common": 363,
-              "rare": 27
+              "common": 406,
+              "rare": 29
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 239
+              "common": 274
             }
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 219
+              "common": 244
             }
           },
           "vial_martian_dust": {
             "1": {
-              "common": 176,
-              "rare": 21
+              "common": 197,
+              "rare": 22
             },
             "2": {
-              "common": 82,
+              "common": 96,
               "epic": 1
             }
           },
           "dilithium_stone_fragment": {
             "0": {
-              "common": 60
+              "common": 70
             }
           },
           "dilithium_stone": {
             "0": {
-              "common": 26
+              "common": 32
             }
           },
           "lunar_stone": {
             "1": {
-              "common": 55
+              "common": 62
             }
           },
           "soul_stone_fragment": {
             "0": {
-              "common": 37
+              "common": 42
             }
           },
           "book_of_basan": {
             "0": {
-              "common": 72
+              "common": 83
             }
           },
           "light_of_eggendil": {
             "0": {
-              "common": 35
+              "common": 42
             }
           },
           "terra_stone_fragment": {
             "0": {
-              "common": 54
+              "common": 62
             }
           },
           "life_stone": {
             "0": {
-              "common": 45
+              "common": 49
             }
           },
           "tachyon_stone": {
             "1": {
-              "common": 27
-            }
-          },
-          "prophecy_stone": {
-            "0": {
-              "common": 1
+              "common": 34
             }
           },
           "clarity_stone": {
+            "0": {
+              "common": 3
+            }
+          },
+          "prophecy_stone": {
             "0": {
               "common": 2
             }
@@ -2281,8 +2286,8 @@
           "demeters_necklace": {
             "2": {
               "common": 66,
-              "rare": 1,
-              "epic": 1
+              "epic": 1,
+              "rare": 1
             },
             "3": {
               "common": 1
@@ -2353,14 +2358,24 @@
               "common": 8
             }
           },
-          "dilithium_stone_fragment": {
+          "book_of_basan": {
             "0": {
-              "common": 8
+              "common": 14
             }
           },
-          "shell_stone": {
-            "1": {
-              "common": 3
+          "life_stone": {
+            "0": {
+              "common": 5
+            }
+          },
+          "clarity_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 7
             }
           },
           "terra_stone": {
@@ -2371,19 +2386,9 @@
               "common": 2
             }
           },
-          "life_stone": {
-            "0": {
-              "common": 5
-            }
-          },
           "life_stone_fragment": {
             "0": {
               "common": 13
-            }
-          },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 7
             }
           },
           "dilithium_stone": {
@@ -2391,29 +2396,29 @@
               "common": 2
             }
           },
-          "book_of_basan": {
+          "dilithium_stone_fragment": {
             "0": {
-              "common": 14
-            }
-          },
-          "clarity_stone": {
-            "0": {
-              "common": 1
+              "common": 8
             }
           },
           "prophecy_stone": {
             "0": {
               "common": 1
             }
+          },
+          "shell_stone": {
+            "1": {
+              "common": 3
+            }
           }
         }
       },
       "7": {
-        "count": 4680,
+        "count": 4772,
         "rewards": {
           "ship_in_a_bottle": {
             "0": {
-              "common": 264
+              "common": 269
             },
             "1": {
               "common": 7
@@ -2421,31 +2426,31 @@
           },
           "solar_titanium": {
             "1": {
-              "common": 328
+              "common": 329
             }
           },
           "carved_rainstick": {
             "0": {
-              "common": 80
+              "common": 84
             },
             "1": {
-              "common": 159
+              "common": 160
             },
             "2": {
-              "common": 5
+              "common": 6
             }
           },
           "titanium_actuator": {
             "0": {
-              "common": 171
+              "common": 177
             },
             "1": {
-              "common": 28
+              "common": 29
             }
           },
           "mercurys_lens": {
             "1": {
-              "common": 103,
+              "common": 104,
               "rare": 23
             },
             "2": {
@@ -2454,11 +2459,11 @@
           },
           "the_chalice": {
             "1": {
-              "common": 139,
+              "common": 142,
               "epic": 2
             },
             "0": {
-              "common": 98
+              "common": 100
             },
             "2": {
               "common": 20,
@@ -2467,15 +2472,15 @@
           },
           "gold_meteorite": {
             "1": {
-              "common": 545
+              "common": 550
             }
           },
           "quantum_metronome": {
             "0": {
-              "common": 190
+              "common": 194
             },
             "1": {
-              "common": 77,
+              "common": 79,
               "rare": 7
             }
           },
@@ -2486,67 +2491,67 @@
           },
           "phoenix_feather": {
             "0": {
-              "common": 141
+              "common": 142
             },
             "1": {
-              "common": 87
+              "common": 88
             }
           },
           "dilithium_monocle": {
             "0": {
-              "common": 215
+              "common": 219
             },
             "1": {
-              "common": 42
+              "common": 43
             }
           },
           "vial_martian_dust": {
             "2": {
-              "common": 36
+              "common": 38
             },
             "1": {
               "rare": 8,
-              "common": 55
+              "common": 57
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 82,
+              "common": 84,
               "rare": 8
             },
             "3": {
-              "common": 22,
+              "common": 23,
               "epic": 1,
               "rare": 1
             }
           },
           "neodymium_medallion": {
             "2": {
-              "common": 85
+              "common": 86
             },
             "1": {
-              "common": 91,
+              "common": 93,
               "rare": 7
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 82
+              "common": 85
             }
           },
           "puzzle_cube": {
             "2": {
-              "common": 100,
+              "common": 107,
               "rare": 12
             }
           },
           "aurelian_brooch": {
             "2": {
-              "common": 120,
+              "common": 125,
               "rare": 9
             },
             "1": {
-              "common": 21
+              "common": 22
             }
           },
           "tachyon_stone": {
@@ -2561,7 +2566,7 @@
           },
           "demeters_necklace": {
             "2": {
-              "common": 100,
+              "common": 105,
               "rare": 4,
               "epic": 2
             },
@@ -2571,10 +2576,10 @@
           },
           "interstellar_compass": {
             "1": {
-              "common": 161
+              "common": 165
             },
             "0": {
-              "common": 103
+              "common": 104
             },
             "2": {
               "common": 9
@@ -2587,7 +2592,7 @@
           },
           "ornate_gusset": {
             "1": {
-              "common": 92
+              "common": 94
             },
             "2": {
               "common": 16,
@@ -2600,27 +2605,27 @@
               "rare": 3
             },
             "1": {
-              "common": 66,
+              "common": 67,
               "rare": 1
             }
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 77
+              "common": 78
             }
           },
           "beak_of_midas": {
             "2": {
-              "common": 42,
+              "common": 43,
               "rare": 4
             },
             "1": {
-              "common": 123
+              "common": 125
             }
           },
           "quantum_stone": {
             "0": {
-              "common": 13
+              "common": 14
             },
             "1": {
               "common": 5
@@ -2628,7 +2633,7 @@
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 64
+              "common": 66
             }
           },
           "light_of_eggendil": {
@@ -2653,7 +2658,7 @@
           },
           "terra_stone": {
             "0": {
-              "common": 18
+              "common": 19
             },
             "1": {
               "common": 3
@@ -2671,7 +2676,7 @@
           },
           "tachyon_deflector": {
             "0": {
-              "common": 30
+              "common": 31
             }
           },
           "dilithium_stone": {
@@ -2681,7 +2686,7 @@
           },
           "quantum_stone_fragment": {
             "0": {
-              "common": 12
+              "common": 13
             }
           },
           "clarity_stone": {
@@ -2699,162 +2704,163 @@
     },
     "epic": {
       "3": {
-        "count": 3043,
+        "count": 4426,
         "rewards": {
           "phoenix_feather": {
             "1": {
-              "common": 51
+              "common": 76
             },
             "2": {
-              "common": 42,
-              "rare": 4
+              "common": 53,
+              "rare": 6
             },
             "0": {
-              "common": 23
+              "common": 41
             }
           },
           "ship_in_a_bottle": {
             "0": {
-              "common": 64
+              "common": 90
             },
             "1": {
-              "common": 52
+              "common": 74
             },
             "2": {
-              "common": 6,
-              "rare": 1
+              "common": 7,
+              "rare": 2
             }
           },
           "tachyon_deflector": {
             "1": {
-              "common": 18
+              "common": 26
             },
             "0": {
-              "common": 86
+              "common": 127
             }
           },
           "puzzle_cube": {
             "3": {
-              "common": 16
+              "common": 19
             },
             "2": {
-              "common": 53,
-              "rare": 9
+              "common": 77,
+              "rare": 10
             }
           },
           "tungsten_ankh": {
             "2": {
-              "common": 56,
-              "rare": 6
+              "common": 84,
+              "rare": 10
             },
             "1": {
-              "common": 16,
-              "rare": 2
+              "common": 24,
+              "rare": 3
             },
             "3": {
-              "common": 8,
-              "rare": 1
+              "common": 11,
+              "rare": 2
             }
           },
           "light_of_eggendil": {
             "1": {
-              "rare": 1,
-              "common": 16
+              "rare": 2,
+              "common": 23
             },
             "0": {
-              "common": 53
+              "common": 81
             }
           },
           "dilithium_monocle": {
             "1": {
-              "common": 59
+              "common": 81
             },
             "2": {
-              "common": 14
+              "common": 21
             },
             "0": {
-              "common": 47
+              "common": 77
             }
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 221
+              "common": 311
             }
           },
           "gold_meteorite": {
             "1": {
-              "common": 293
+              "common": 406
             },
             "2": {
-              "common": 19
+              "common": 25
             }
           },
           "aurelian_brooch": {
             "2": {
-              "common": 51,
-              "rare": 8,
+              "common": 68,
+              "rare": 14,
               "epic": 1
             },
             "3": {
-              "common": 16
+              "common": 26,
+              "rare": 1
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 90
+              "common": 132
             }
           },
           "dilithium_stone": {
             "0": {
-              "common": 20
+              "common": 30
             },
             "1": {
-              "common": 10
+              "common": 11
             }
           },
           "vial_martian_dust": {
             "2": {
-              "common": 41
+              "common": 64
             },
             "1": {
-              "common": 10,
+              "common": 11,
               "rare": 1
             },
             "3": {
-              "common": 1
+              "common": 2
             }
           },
           "life_stone": {
             "1": {
-              "common": 18
+              "common": 22
             },
             "0": {
-              "common": 24
+              "common": 34
             }
           },
           "book_of_basan": {
             "0": {
-              "common": 62
+              "common": 91
             },
             "1": {
-              "common": 12
+              "common": 18
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 142
+              "common": 206
             },
             "2": {
-              "common": 9
+              "common": 10
             }
           },
           "interstellar_compass": {
             "1": {
-              "common": 30
+              "common": 40
             },
             "2": {
-              "common": 34,
-              "rare": 7
+              "common": 58,
+              "rare": 12
             },
             "3": {
               "common": 1
@@ -2862,88 +2868,88 @@
           },
           "the_chalice": {
             "3": {
-              "common": 2
+              "common": 4
             },
             "2": {
-              "common": 58,
-              "rare": 8
+              "common": 86,
+              "rare": 10
             },
             "1": {
-              "common": 38,
+              "common": 51,
               "epic": 3
             },
             "0": {
-              "common": 13
+              "common": 25
             }
           },
           "terra_stone": {
             "0": {
-              "common": 7
+              "common": 13
             },
             "1": {
-              "common": 25
+              "common": 33
             }
           },
           "mercurys_lens": {
             "1": {
-              "common": 28,
-              "rare": 5
+              "common": 42,
+              "rare": 8
             },
             "2": {
-              "common": 48,
-              "rare": 11
+              "common": 74,
+              "rare": 15
             }
           },
           "quantum_stone": {
             "1": {
-              "common": 31
+              "common": 45
             },
             "0": {
-              "common": 9
+              "common": 16
             }
           },
           "titanium_actuator": {
             "2": {
-              "common": 13,
+              "common": 22,
               "rare": 4
             },
             "1": {
-              "common": 58
+              "common": 88
             },
             "0": {
-              "common": 60
+              "common": 83
             }
           },
           "neodymium_medallion": {
             "2": {
-              "common": 61
+              "common": 87
             },
             "3": {
-              "common": 23,
-              "rare": 1,
-              "legendary": 1
+              "common": 35,
+              "legendary": 1,
+              "rare": 2
             },
             "1": {
-              "rare": 3,
-              "common": 12
+              "rare": 4,
+              "common": 28
             }
           },
           "prophecy_stone": {
             "0": {
-              "common": 20
+              "common": 24
             }
           },
           "carved_rainstick": {
             "2": {
-              "common": 41
+              "common": 55
             },
             "1": {
-              "common": 24
+              "common": 35
             }
           },
           "lunar_stone": {
             "1": {
-              "common": 16
+              "common": 21
             },
             "2": {
               "common": 1
@@ -2951,71 +2957,73 @@
           },
           "ornate_gusset": {
             "2": {
-              "common": 46,
-              "rare": 7
+              "common": 73,
+              "rare": 9
             },
             "1": {
-              "common": 13
+              "common": 20,
+              "epic": 1
             }
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 86
+              "common": 125
             }
           },
           "beak_of_midas": {
             "2": {
-              "common": 58,
-              "rare": 10
+              "common": 81,
+              "rare": 14
             },
             "1": {
-              "common": 22
+              "common": 32
             },
             "3": {
-              "common": 11
+              "common": 17
             }
           },
           "demeters_necklace": {
             "2": {
-              "common": 17,
+              "common": 32,
               "rare": 2
             },
             "3": {
-              "common": 27,
+              "common": 44,
               "legendary": 1,
-              "rare": 6
+              "rare": 7
             }
           },
           "shell_stone": {
             "1": {
-              "common": 29
+              "common": 42
             }
           },
           "quantum_metronome": {
             "2": {
-              "common": 14,
-              "rare": 1
+              "common": 20,
+              "rare": 5
             },
             "1": {
-              "common": 66,
-              "rare": 9
+              "common": 83,
+              "rare": 16
             },
             "0": {
-              "common": 34
+              "common": 50
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 20
+              "common": 28,
+              "rare": 1
             },
             "3": {
-              "rare": 5,
-              "common": 54
+              "rare": 8,
+              "common": 92
             }
           },
           "clarity_stone": {
             "0": {
-              "common": 13
+              "common": 24
             },
             "1": {
               "common": 1
@@ -3023,65 +3031,65 @@
           },
           "tachyon_stone": {
             "1": {
-              "common": 23
+              "common": 34
             }
           },
           "soul_stone": {
             "0": {
-              "common": 11
+              "common": 16
             },
             "1": {
-              "common": 8
+              "common": 11
             }
           }
         }
       },
       "6": {
-        "count": 43951,
+        "count": 51525,
         "rewards": {
           "puzzle_cube": {
             "2": {
-              "common": 742,
-              "rare": 99
+              "common": 842,
+              "rare": 114
             },
             "3": {
-              "common": 93,
+              "common": 111,
               "rare": 4,
               "epic": 3
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 296,
-              "rare": 23
+              "common": 345,
+              "rare": 27
             },
             "3": {
-              "common": 784,
-              "rare": 59,
-              "epic": 10
+              "common": 925,
+              "rare": 72,
+              "epic": 11
             }
           },
           "the_chalice": {
             "2": {
-              "common": 834,
-              "rare": 124,
-              "epic": 30
+              "common": 969,
+              "rare": 147,
+              "epic": 35
             },
             "0": {
-              "common": 247
+              "common": 282
             },
             "1": {
-              "common": 479,
-              "epic": 13
+              "common": 569,
+              "epic": 17
             },
             "3": {
-              "common": 25,
+              "common": 27,
               "epic": 1
             }
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 3039
+              "common": 3566
             },
             "2": {
               "common": 1
@@ -3089,204 +3097,204 @@
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 1042
+              "common": 1232
             }
           },
           "life_stone": {
             "1": {
-              "common": 180
+              "common": 201
             },
             "0": {
-              "common": 225
+              "common": 265
             }
           },
           "dilithium_stone": {
             "0": {
-              "common": 327
+              "common": 392
             },
             "1": {
-              "common": 136
+              "common": 147
             }
           },
           "gold_meteorite": {
             "1": {
-              "common": 3946
+              "common": 4631
             },
             "2": {
-              "common": 281
+              "common": 320
             }
           },
           "neodymium_medallion": {
             "3": {
-              "common": 345,
-              "epic": 9,
-              "rare": 22,
+              "common": 400,
+              "epic": 11,
+              "rare": 25,
               "legendary": 1
             },
             "2": {
-              "common": 761,
-              "epic": 13
+              "common": 898,
+              "epic": 14
             },
             "1": {
-              "common": 227,
-              "rare": 41
+              "common": 268,
+              "rare": 46
             }
           },
           "interstellar_compass": {
             "2": {
-              "rare": 90,
-              "common": 572
+              "rare": 98,
+              "common": 681
             },
             "1": {
-              "common": 497
+              "common": 598
             },
             "3": {
-              "common": 11,
-              "epic": 1
+              "common": 14,
+              "epic": 2
             }
           },
           "dilithium_monocle": {
             "1": {
-              "common": 863
+              "common": 1016
             },
             "0": {
-              "common": 684
+              "common": 801
             },
             "2": {
-              "common": 176
+              "common": 207
             }
           },
           "ship_in_a_bottle": {
             "0": {
-              "common": 1053
+              "common": 1221
             },
             "1": {
-              "common": 613
+              "common": 735
             },
             "2": {
-              "common": 53,
-              "rare": 17
+              "common": 64,
+              "rare": 18
             }
           },
           "titanium_actuator": {
             "0": {
-              "common": 708
+              "common": 844
             },
             "1": {
-              "common": 793
+              "common": 946
             },
             "2": {
-              "common": 150,
-              "rare": 21
+              "common": 169,
+              "rare": 24
             }
           },
           "phoenix_feather": {
             "0": {
-              "common": 474
+              "common": 554
             },
             "1": {
-              "common": 762
+              "common": 886
             },
             "2": {
-              "common": 410,
-              "rare": 62
+              "common": 486,
+              "rare": 67
             }
           },
           "vial_martian_dust": {
             "2": {
-              "common": 830,
-              "epic": 28
+              "common": 956,
+              "epic": 33
             },
             "1": {
-              "common": 191,
-              "rare": 29
+              "common": 228,
+              "rare": 32
             },
             "3": {
-              "common": 22,
-              "rare": 1,
-              "legendary": 1
+              "common": 25,
+              "legendary": 1,
+              "rare": 1
             }
           },
           "terra_stone": {
             "1": {
-              "common": 370
+              "common": 422
             },
             "0": {
-              "common": 114
+              "common": 131
             }
           },
           "quantum_metronome": {
             "1": {
-              "common": 785,
-              "rare": 78
+              "common": 937,
+              "rare": 91
             },
             "2": {
-              "common": 295,
-              "rare": 45,
-              "epic": 9
+              "common": 335,
+              "rare": 51,
+              "epic": 11
             },
             "0": {
-              "common": 584
+              "common": 693
             }
           },
           "demeters_necklace": {
             "3": {
-              "common": 564,
-              "rare": 42,
-              "legendary": 2,
-              "epic": 11
+              "common": 668,
+              "rare": 48,
+              "epic": 12,
+              "legendary": 2
             },
             "2": {
-              "common": 417,
-              "rare": 47,
-              "epic": 5
+              "common": 500,
+              "rare": 49,
+              "epic": 6
             }
           },
           "ornate_gusset": {
             "2": {
-              "common": 821,
-              "rare": 147
+              "common": 962,
+              "rare": 162
             },
             "1": {
-              "common": 292,
-              "epic": 11
+              "common": 347,
+              "epic": 12
             },
             "3": {
-              "common": 4
+              "common": 6
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 2349
+              "common": 2756
             },
             "2": {
-              "common": 128
+              "common": 148
             }
           },
           "tungsten_ankh": {
             "2": {
-              "common": 793,
-              "rare": 123,
-              "legendary": 3
+              "common": 958,
+              "rare": 142,
+              "legendary": 4
             },
             "1": {
-              "common": 235,
-              "rare": 18
+              "common": 272,
+              "rare": 22
             },
             "3": {
-              "common": 68,
+              "common": 90,
               "rare": 2,
               "legendary": 1
             }
           },
           "mercurys_lens": {
             "2": {
-              "common": 767,
-              "rare": 129
+              "common": 900,
+              "rare": 158
             },
             "1": {
-              "common": 394,
-              "rare": 61
+              "common": 472,
+              "rare": 74
             },
             "3": {
               "common": 1
@@ -3294,33 +3302,33 @@
           },
           "beak_of_midas": {
             "2": {
-              "common": 865,
-              "rare": 122
+              "common": 995,
+              "rare": 138
             },
             "1": {
-              "common": 368
+              "common": 426
             },
             "3": {
-              "common": 154,
-              "rare": 3
+              "common": 182,
+              "rare": 5
             }
           },
           "aurelian_brooch": {
             "2": {
-              "common": 682,
-              "rare": 120,
-              "epic": 11
+              "common": 802,
+              "rare": 137,
+              "epic": 18
             },
             "3": {
-              "common": 347,
-              "rare": 22,
-              "legendary": 1,
-              "epic": 5
+              "common": 406,
+              "rare": 25,
+              "epic": 5,
+              "legendary": 1
             }
           },
           "shell_stone": {
             "1": {
-              "common": 338
+              "common": 388
             },
             "2": {
               "common": 4
@@ -3328,36 +3336,36 @@
           },
           "light_of_eggendil": {
             "0": {
-              "common": 766
+              "common": 906
             },
             "1": {
-              "common": 244,
-              "rare": 37
+              "common": 284,
+              "rare": 43
             },
             "2": {
-              "rare": 2,
-              "common": 6
+              "common": 7,
+              "rare": 2
             }
           },
           "quantum_stone": {
             "1": {
-              "common": 373
+              "common": 427
             },
             "0": {
-              "common": 154
+              "common": 172
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 1206
+              "common": 1418
             }
           },
           "tachyon_deflector": {
             "0": {
-              "common": 1244
+              "common": 1453
             },
             "1": {
-              "common": 272
+              "common": 315
             },
             "2": {
               "common": 4
@@ -3365,61 +3373,61 @@
           },
           "book_of_basan": {
             "0": {
-              "common": 798
+              "common": 946
             },
             "1": {
-              "common": 134
+              "common": 160
             },
             "2": {
-              "common": 1
+              "common": 2
             }
           },
           "lunar_stone": {
             "1": {
-              "common": 246
+              "common": 296
             },
             "2": {
-              "common": 19
+              "common": 21
             }
           },
           "carved_rainstick": {
             "2": {
-              "common": 614
+              "common": 709
             },
             "1": {
-              "common": 495
+              "common": 585
             },
             "3": {
-              "common": 3
+              "common": 5
             }
           },
           "tachyon_stone": {
             "1": {
-              "common": 301
+              "common": 348
             }
           },
           "soul_stone": {
             "0": {
-              "common": 107
+              "common": 126
             },
             "1": {
-              "common": 119
+              "common": 150
             },
             "2": {
-              "common": 5
+              "common": 7
             }
           },
           "clarity_stone": {
             "0": {
-              "common": 302
+              "common": 338
             },
             "1": {
-              "common": 14
+              "common": 17
             }
           },
           "prophecy_stone": {
             "0": {
-              "common": 149
+              "common": 176
             },
             "1": {
               "common": 5
@@ -3648,8 +3656,8 @@
             },
             "3": {
               "common": 7,
-              "legendary": 1,
-              "epic": 1
+              "epic": 1,
+              "legendary": 1
             }
           },
           "neodymium_medallion": {
@@ -3802,137 +3810,137 @@
         }
       },
       "5": {
-        "count": 29337,
+        "count": 33403,
         "rewards": {
           "quantum_metronome": {
             "1": {
-              "rare": 74,
-              "common": 528
+              "rare": 81,
+              "common": 595
             },
             "0": {
-              "common": 410
+              "common": 470
             },
             "2": {
-              "common": 178,
-              "rare": 31,
-              "epic": 5
+              "common": 195,
+              "rare": 34,
+              "epic": 6
             }
           },
           "neodymium_medallion": {
             "2": {
-              "common": 506,
+              "common": 578,
               "epic": 11
             },
             "3": {
-              "common": 240,
-              "rare": 16,
-              "legendary": 1,
+              "common": 288,
+              "rare": 19,
+              "legendary": 3,
               "epic": 2
             },
             "1": {
-              "common": 181,
-              "rare": 22
+              "common": 203,
+              "rare": 24
             }
           },
           "prophecy_stone": {
             "0": {
-              "common": 116
+              "common": 133
             }
           },
           "ship_in_a_bottle": {
             "1": {
-              "common": 414
+              "common": 487
             },
             "0": {
-              "common": 720
+              "common": 806
             },
             "2": {
-              "common": 61,
-              "rare": 7
+              "common": 68,
+              "rare": 9
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 1593
+              "common": 1799
             },
             "2": {
-              "common": 65
+              "common": 74
             }
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 682
+              "common": 794
             }
           },
           "vial_martian_dust": {
             "2": {
-              "common": 528,
-              "epic": 11
+              "common": 609,
+              "epic": 13
             },
             "1": {
-              "common": 137,
-              "rare": 20
+              "common": 146,
+              "rare": 22
             },
             "3": {
-              "common": 25,
+              "common": 26,
               "rare": 1
             }
           },
           "gold_meteorite": {
             "1": {
-              "common": 2546
+              "common": 2875
             },
             "2": {
-              "common": 169
+              "common": 201
             }
           },
           "beak_of_midas": {
             "3": {
-              "common": 98,
+              "common": 112,
               "rare": 2
             },
             "2": {
-              "common": 536,
-              "rare": 65
+              "common": 595,
+              "rare": 74
             },
             "1": {
-              "common": 265
+              "common": 301
             }
           },
           "titanium_actuator": {
             "1": {
-              "common": 556
+              "common": 618
             },
             "0": {
-              "common": 462
+              "common": 519
             },
             "2": {
-              "common": 91,
-              "rare": 17
+              "common": 99,
+              "rare": 18
             }
           },
           "tungsten_ankh": {
             "2": {
-              "common": 591,
-              "rare": 80,
+              "common": 658,
+              "rare": 92,
               "legendary": 4
             },
             "1": {
-              "common": 149,
-              "rare": 15
+              "common": 178,
+              "rare": 16
             },
             "3": {
-              "common": 45,
+              "common": 48,
               "legendary": 1,
               "rare": 2
             }
           },
           "carved_rainstick": {
             "1": {
-              "common": 335
+              "common": 376
             },
             "2": {
-              "common": 384
+              "common": 446
             },
             "3": {
               "common": 6
@@ -3940,47 +3948,47 @@
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 814
+              "common": 943
             }
           },
           "aurelian_brooch": {
             "3": {
-              "common": 250,
+              "common": 286,
               "legendary": 2,
-              "rare": 13,
+              "rare": 15,
               "epic": 5
             },
             "2": {
-              "common": 450,
-              "rare": 69,
-              "epic": 15
+              "common": 501,
+              "rare": 75,
+              "epic": 16
             }
           },
           "dilithium_monocle": {
             "2": {
-              "common": 136
+              "common": 150
             },
             "1": {
-              "common": 530
+              "common": 624
             },
             "0": {
-              "common": 442
+              "common": 518
             }
           },
           "clarity_stone": {
             "0": {
-              "common": 179
+              "common": 213
             },
             "1": {
-              "common": 10
+              "common": 11
             }
           },
           "book_of_basan": {
             "0": {
-              "common": 538
+              "common": 605
             },
             "1": {
-              "common": 96
+              "common": 112
             },
             "2": {
               "common": 1
@@ -3988,27 +3996,27 @@
           },
           "the_chalice": {
             "2": {
-              "common": 500,
-              "rare": 91,
-              "epic": 15
+              "common": 568,
+              "rare": 105,
+              "epic": 16
             },
             "0": {
-              "common": 202
+              "common": 223
             },
             "1": {
-              "common": 322,
-              "epic": 7
+              "common": 370,
+              "epic": 9
             },
             "3": {
-              "common": 16
+              "common": 18
             }
           },
           "quantum_stone": {
             "1": {
-              "common": 249
+              "common": 280
             },
             "0": {
-              "common": 127
+              "common": 142
             },
             "2": {
               "common": 1
@@ -4016,52 +4024,52 @@
           },
           "phoenix_feather": {
             "0": {
-              "common": 314
+              "common": 363
             },
             "1": {
-              "common": 470
+              "common": 542
             },
             "2": {
-              "common": 307,
-              "rare": 55
+              "common": 345,
+              "rare": 60
             }
           },
           "soul_stone": {
             "0": {
-              "common": 76
+              "common": 87
             },
             "1": {
-              "common": 82
+              "common": 93
             }
           },
           "lunar_stone": {
             "1": {
-              "common": 148
+              "common": 176
             },
             "2": {
-              "common": 9
+              "common": 13
             }
           },
           "terra_stone": {
             "0": {
-              "common": 83
+              "common": 91
             },
             "1": {
-              "common": 247
+              "common": 285
             }
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 2035
+              "common": 2318
             }
           },
           "ornate_gusset": {
             "2": {
-              "common": 575,
-              "rare": 85
+              "common": 636,
+              "rare": 98
             },
             "1": {
-              "common": 188,
+              "common": 216,
               "epic": 9
             },
             "3": {
@@ -4070,78 +4078,78 @@
           },
           "lunar_totem": {
             "3": {
-              "common": 548,
-              "rare": 38,
-              "epic": 7
+              "common": 632,
+              "rare": 41,
+              "epic": 9
             },
             "2": {
-              "common": 193,
+              "common": 223,
               "rare": 21
             }
           },
           "tachyon_deflector": {
             "1": {
-              "common": 168
+              "common": 192
             },
             "0": {
-              "common": 854
+              "common": 979
             },
             "2": {
-              "common": 2
+              "common": 3
             }
           },
           "demeters_necklace": {
             "3": {
-              "common": 350,
-              "epic": 3,
-              "rare": 22,
-              "legendary": 2
+              "common": 403,
+              "rare": 23,
+              "legendary": 2,
+              "epic": 3
             },
             "2": {
-              "common": 241,
-              "rare": 30,
-              "epic": 7
+              "common": 281,
+              "rare": 33,
+              "epic": 8
             }
           },
           "puzzle_cube": {
             "2": {
-              "common": 498,
-              "rare": 70
+              "common": 569,
+              "rare": 79
             },
             "3": {
-              "common": 75,
-              "epic": 1,
+              "common": 80,
               "rare": 3,
-              "legendary": 1
+              "legendary": 2,
+              "epic": 1
             }
           },
           "light_of_eggendil": {
             "0": {
-              "common": 517
+              "common": 592
             },
             "1": {
-              "common": 173,
-              "rare": 32
+              "common": 198,
+              "rare": 34
             },
             "2": {
-              "common": 6
+              "common": 7
             }
           },
           "life_stone": {
             "1": {
-              "common": 115
+              "common": 133
             },
             "0": {
-              "common": 162
+              "common": 187
             }
           },
           "interstellar_compass": {
             "2": {
-              "common": 409,
-              "rare": 62
+              "common": 462,
+              "rare": 73
             },
             "1": {
-              "common": 344
+              "common": 397
             },
             "3": {
               "common": 15
@@ -4149,30 +4157,30 @@
           },
           "mercurys_lens": {
             "1": {
-              "common": 257,
-              "rare": 37
+              "common": 297,
+              "rare": 42
             },
             "2": {
-              "common": 506,
-              "rare": 82
+              "common": 580,
+              "rare": 92
             }
           },
           "tachyon_stone": {
             "1": {
-              "common": 199
+              "common": 226
             }
           },
           "dilithium_stone": {
             "0": {
-              "common": 220
+              "common": 259
             },
             "1": {
-              "common": 67
+              "common": 74
             }
           },
           "shell_stone": {
             "1": {
-              "common": 225
+              "common": 262
             },
             "2": {
               "common": 2
@@ -4181,119 +4189,119 @@
         }
       },
       "7": {
-        "count": 32394,
+        "count": 36900,
         "rewards": {
           "tau_ceti_geode": {
             "1": {
-              "common": 2182
+              "common": 2449
             },
             "2": {
-              "common": 1
+              "common": 3
             }
           },
           "lunar_totem": {
             "3": {
-              "common": 593,
+              "common": 674,
               "epic": 4,
-              "rare": 44
+              "rare": 48
             },
             "2": {
-              "common": 222,
-              "rare": 19
+              "common": 249,
+              "rare": 26
             }
           },
           "tachyon_deflector": {
             "0": {
-              "common": 870
+              "common": 983
             },
             "1": {
-              "common": 188
+              "common": 215
             },
             "2": {
-              "common": 6
+              "common": 9
             }
           },
           "vial_martian_dust": {
             "2": {
-              "common": 615,
-              "epic": 16
+              "common": 709,
+              "epic": 18
             },
             "1": {
-              "rare": 24,
-              "common": 103
+              "rare": 30,
+              "common": 117
             },
             "3": {
-              "common": 21,
+              "common": 24,
               "rare": 1
             }
           },
           "gold_meteorite": {
             "1": {
-              "common": 2993
+              "common": 3411
             },
             "2": {
-              "common": 238
+              "common": 264
             }
           },
           "clarity_stone_fragment": {
             "0": {
-              "common": 820
+              "common": 938
             }
           },
           "light_of_eggendil": {
             "0": {
-              "common": 569
+              "common": 643
             },
             "1": {
-              "common": 207,
-              "rare": 21
+              "common": 240,
+              "rare": 25
             },
             "2": {
-              "common": 5
+              "common": 6
             }
           },
           "titanium_actuator": {
             "1": {
-              "common": 610
+              "common": 684
             },
             "0": {
-              "common": 535
+              "common": 614
             },
             "2": {
-              "common": 108,
-              "rare": 13
+              "common": 120,
+              "rare": 16
             }
           },
           "solar_titanium": {
             "1": {
-              "common": 1699
+              "common": 1953
             },
             "2": {
-              "common": 95
+              "common": 106
             }
           },
           "quantum_metronome": {
             "0": {
-              "common": 434
+              "common": 504
             },
             "2": {
-              "common": 189,
-              "rare": 24,
+              "common": 210,
+              "rare": 28,
               "epic": 8
             },
             "1": {
-              "common": 607,
-              "rare": 59
+              "common": 691,
+              "rare": 67
             }
           },
           "mercurys_lens": {
             "2": {
-              "common": 554,
-              "rare": 99
+              "common": 635,
+              "rare": 109
             },
             "1": {
-              "common": 303,
-              "rare": 50
+              "common": 346,
+              "rare": 62
             },
             "3": {
               "common": 1
@@ -4301,10 +4309,10 @@
           },
           "book_of_basan": {
             "0": {
-              "common": 592
+              "common": 690
             },
             "1": {
-              "common": 94
+              "common": 109
             },
             "2": {
               "common": 2
@@ -4312,148 +4320,148 @@
           },
           "interstellar_compass": {
             "1": {
-              "common": 387
+              "common": 452
             },
             "2": {
-              "common": 478,
-              "rare": 67
+              "common": 535,
+              "rare": 72
             },
             "3": {
-              "common": 14
+              "common": 16
             }
           },
           "lunar_stone": {
             "1": {
-              "common": 187
+              "common": 206
             },
             "2": {
-              "common": 13
+              "common": 18
             }
           },
           "ship_in_a_bottle": {
             "1": {
-              "common": 438
+              "common": 505
             },
             "0": {
-              "common": 800
+              "common": 897
             },
             "2": {
-              "common": 41,
-              "rare": 8
+              "common": 48,
+              "rare": 9
             }
           },
           "carved_rainstick": {
             "1": {
-              "common": 413
+              "common": 478
             },
             "2": {
-              "common": 409
+              "common": 472
             },
             "3": {
-              "common": 6
+              "common": 8
             }
           },
           "dilithium_monocle": {
             "0": {
-              "common": 505
+              "common": 576
             },
             "1": {
-              "common": 579
+              "common": 672
             },
             "2": {
-              "common": 129
+              "common": 146
             }
           },
           "puzzle_cube": {
             "2": {
-              "rare": 97,
-              "common": 497
+              "rare": 105,
+              "common": 565
             },
             "3": {
-              "common": 83,
-              "rare": 8,
+              "common": 93,
+              "rare": 9,
               "epic": 1
             }
           },
           "beak_of_midas": {
             "2": {
-              "rare": 94,
-              "common": 627
+              "rare": 111,
+              "common": 721
             },
             "1": {
-              "common": 248
+              "common": 294
             },
             "3": {
-              "common": 117,
+              "common": 132,
               "legendary": 1,
               "rare": 6
             }
           },
           "tungsten_ankh": {
             "2": {
-              "common": 608,
-              "rare": 91,
+              "common": 680,
+              "rare": 101,
               "legendary": 3
             },
             "3": {
-              "common": 59,
+              "common": 69,
               "rare": 2
             },
             "1": {
-              "common": 177,
+              "common": 205,
               "rare": 14
             }
           },
           "the_chalice": {
             "2": {
-              "common": 542,
-              "rare": 88,
-              "epic": 17
+              "common": 621,
+              "rare": 104,
+              "epic": 21
             },
             "1": {
-              "common": 375,
-              "epic": 13
+              "common": 425,
+              "epic": 16
             },
             "0": {
-              "common": 178
+              "common": 202
             },
             "3": {
-              "common": 20
+              "common": 23
             }
           },
           "phoenix_feather": {
             "2": {
-              "rare": 58,
-              "common": 330
+              "rare": 63,
+              "common": 384
             },
             "1": {
-              "common": 567
+              "common": 632
             },
             "0": {
-              "common": 307
+              "common": 360
             }
           },
           "aurelian_brooch": {
             "3": {
-              "common": 265,
-              "rare": 13,
+              "common": 302,
+              "rare": 15,
               "epic": 6,
               "legendary": 1
             },
             "2": {
-              "common": 488,
-              "rare": 85,
-              "epic": 15
+              "common": 549,
+              "epic": 16,
+              "rare": 101
             }
           },
           "ornate_gusset": {
             "1": {
-              "common": 232,
-              "epic": 5
+              "common": 261,
+              "epic": 6
             },
             "2": {
-              "common": 603,
-              "rare": 107
+              "common": 678,
+              "rare": 121
             },
             "3": {
               "common": 5,
@@ -4462,18 +4470,18 @@
           },
           "dilithium_stone": {
             "1": {
-              "common": 57
+              "common": 67
             },
             "0": {
-              "common": 246
+              "common": 277
             }
           },
           "soul_stone": {
             "0": {
-              "common": 92
+              "common": 107
             },
             "1": {
-              "common": 97
+              "common": 109
             },
             "2": {
               "common": 1
@@ -4481,49 +4489,49 @@
           },
           "neodymium_medallion": {
             "2": {
-              "common": 596,
-              "epic": 8
+              "common": 673,
+              "epic": 9
             },
             "1": {
-              "common": 139,
-              "rare": 26
+              "common": 156,
+              "rare": 27
             },
             "3": {
-              "common": 266,
+              "common": 304,
+              "rare": 16,
               "epic": 4,
-              "rare": 14,
               "legendary": 2
             }
           },
           "prophecy_stone_fragment": {
             "0": {
-              "common": 877
+              "common": 1013
             }
           },
           "life_stone": {
             "1": {
-              "common": 131
+              "common": 148
             },
             "0": {
-              "common": 155
+              "common": 173
             }
           },
           "demeters_necklace": {
             "2": {
-              "common": 277,
-              "rare": 25,
-              "epic": 5
+              "common": 313,
+              "rare": 31,
+              "epic": 7
             },
             "3": {
-              "common": 421,
+              "common": 482,
+              "rare": 24,
               "epic": 10,
-              "rare": 20,
-              "legendary": 3
+              "legendary": 4
             }
           },
           "clarity_stone": {
             "0": {
-              "common": 197
+              "common": 226
             },
             "1": {
               "common": 9
@@ -4531,36 +4539,36 @@
           },
           "quantum_stone": {
             "1": {
-              "common": 291
+              "common": 324
             },
             "0": {
-              "common": 124
+              "common": 140
             }
           },
           "tachyon_stone": {
             "1": {
-              "common": 225
+              "common": 257
             }
           },
           "terra_stone": {
             "1": {
-              "common": 267
+              "common": 306
             },
             "0": {
-              "common": 78
+              "common": 91
             }
           },
           "shell_stone": {
             "1": {
-              "common": 233
+              "common": 267
             },
             "2": {
-              "common": 5
+              "common": 6
             }
           },
           "prophecy_stone": {
             "0": {
-              "common": 124
+              "common": 138
             },
             "1": {
               "common": 3
@@ -4822,8 +4830,8 @@
           "tungsten_ankh": {
             "2": {
               "common": 30,
-              "rare": 2,
-              "legendary": 1
+              "legendary": 1,
+              "rare": 2
             },
             "1": {
               "common": 13,
@@ -4909,64 +4917,40 @@
       "1": {
         "count": 522,
         "rewards": {
-          "solar_titanium": {
+          "carved_rainstick": {
             "1": {
-              "common": 29
+              "common": 4
             },
             "2": {
+              "common": 8
+            }
+          },
+          "beak_of_midas": {
+            "2": {
+              "common": 6
+            },
+            "1": {
+              "common": 7
+            },
+            "3": {
               "common": 1
             }
           },
-          "aurelian_brooch": {
-            "3": {
-              "common": 2,
-              "rare": 1,
-              "epic": 1
-            },
+          "shell_stone": {
             "2": {
-              "common": 8,
-              "rare": 2
+              "common": 1
+            },
+            "1": {
+              "common": 4
             }
           },
-          "the_chalice": {
-            "1": {
-              "common": 7
-            },
+          "ornate_gusset": {
             "2": {
-              "common": 4,
+              "common": 10,
               "rare": 1
             },
-            "0": {
-              "common": 3
-            }
-          },
-          "tungsten_ankh": {
-            "2": {
-              "common": 8,
-              "rare": 2
-            },
             "1": {
-              "common": 3
-            },
-            "3": {
-              "common": 2
-            }
-          },
-          "interstellar_compass": {
-            "1": {
-              "common": 6
-            },
-            "2": {
-              "rare": 1,
-              "common": 7
-            }
-          },
-          "gold_meteorite": {
-            "1": {
-              "common": 50
-            },
-            "2": {
-              "common": 6
+              "common": 4
             }
           },
           "prophecy_stone_fragment": {
@@ -4979,148 +4963,33 @@
               "common": 39
             }
           },
-          "quantum_metronome": {
-            "0": {
-              "common": 11
-            },
-            "1": {
-              "rare": 2,
-              "common": 6
-            },
-            "2": {
-              "common": 1
-            }
-          },
-          "clarity_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "light_of_eggendil": {
-            "0": {
-              "common": 14
-            },
-            "1": {
-              "common": 3
-            }
-          },
           "neodymium_medallion": {
             "2": {
               "common": 9
             },
+            "1": {
+              "common": 1,
+              "rare": 1
+            },
             "3": {
               "common": 4
+            }
+          },
+          "lunar_totem": {
+            "3": {
+              "common": 6
             },
-            "1": {
-              "rare": 1,
+            "2": {
               "common": 1
             }
           },
-          "book_of_basan": {
-            "1": {
-              "common": 1
-            },
-            "0": {
-              "common": 12
-            }
-          },
-          "ship_in_a_bottle": {
-            "0": {
-              "common": 12
-            },
-            "2": {
-              "common": 2
-            },
-            "1": {
-              "common": 5
-            }
-          },
-          "tachyon_deflector": {
-            "1": {
-              "common": 2
-            },
-            "0": {
-              "common": 14
-            }
-          },
-          "tachyon_stone": {
-            "1": {
-              "common": 6
-            }
-          },
-          "terra_stone": {
-            "1": {
-              "common": 4
-            }
-          },
-          "ornate_gusset": {
-            "1": {
-              "common": 4
-            },
-            "2": {
-              "common": 10,
-              "rare": 1
-            }
-          },
-          "life_stone": {
-            "1": {
-              "common": 2
-            },
-            "0": {
-              "common": 5
-            }
-          },
-          "titanium_actuator": {
-            "1": {
-              "common": 13
-            },
-            "2": {
-              "common": 3,
-              "rare": 1
-            },
-            "0": {
-              "common": 10
-            }
-          },
-          "puzzle_cube": {
-            "2": {
-              "common": 9
-            },
-            "3": {
-              "common": 2
-            }
-          },
-          "quantum_stone": {
+          "interstellar_compass": {
             "1": {
               "common": 6
             },
-            "0": {
-              "common": 2
-            }
-          },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 9
-            }
-          },
-          "phoenix_feather": {
             "2": {
-              "common": 5,
+              "common": 7,
               "rare": 1
-            },
-            "1": {
-              "common": 13
-            },
-            "0": {
-              "common": 2
-            }
-          },
-          "carved_rainstick": {
-            "2": {
-              "common": 8
-            },
-            "1": {
-              "common": 4
             }
           },
           "dilithium_monocle": {
@@ -5134,44 +5003,81 @@
               "common": 2
             }
           },
-          "vial_martian_dust": {
-            "2": {
-              "common": 10
-            },
+          "gold_meteorite": {
             "1": {
-              "common": 1
-            }
-          },
-          "shell_stone": {
-            "1": {
-              "common": 4
-            },
-            "2": {
-              "common": 1
-            }
-          },
-          "lunar_totem": {
-            "3": {
-              "common": 6
-            },
-            "2": {
-              "common": 1
-            }
-          },
-          "beak_of_midas": {
-            "1": {
-              "common": 7
+              "common": 50
             },
             "2": {
               "common": 6
+            }
+          },
+          "book_of_basan": {
+            "0": {
+              "common": 12
             },
-            "3": {
+            "1": {
               "common": 1
             }
           },
-          "lunar_stone": {
+          "aurelian_brooch": {
+            "2": {
+              "common": 8,
+              "rare": 2
+            },
+            "3": {
+              "rare": 1,
+              "epic": 1,
+              "common": 2
+            }
+          },
+          "phoenix_feather": {
             "1": {
-              "common": 4
+              "common": 13
+            },
+            "0": {
+              "common": 2
+            },
+            "2": {
+              "common": 5,
+              "rare": 1
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 29
+            },
+            "2": {
+              "common": 1
+            }
+          },
+          "demeters_necklace": {
+            "3": {
+              "common": 11,
+              "rare": 2
+            },
+            "2": {
+              "common": 3,
+              "epic": 1
+            }
+          },
+          "tungsten_ankh": {
+            "3": {
+              "common": 2
+            },
+            "2": {
+              "common": 8,
+              "rare": 2
+            },
+            "1": {
+              "common": 3
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 2
+            },
+            "1": {
+              "common": 6
             }
           },
           "mercurys_lens": {
@@ -5184,26 +5090,128 @@
               "common": 5
             }
           },
-          "demeters_necklace": {
-            "3": {
-              "rare": 2,
-              "common": 11
-            },
-            "2": {
-              "common": 3,
-              "epic": 1
+          "tachyon_stone": {
+            "1": {
+              "common": 6
             }
           },
-          "dilithium_stone": {
+          "tachyon_deflector": {
+            "0": {
+              "common": 14
+            },
             "1": {
               "common": 2
+            }
+          },
+          "life_stone": {
+            "0": {
+              "common": 5
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "ship_in_a_bottle": {
+            "1": {
+              "common": 5
             },
             "0": {
+              "common": 12
+            },
+            "2": {
+              "common": 2
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "common": 9
+            },
+            "3": {
+              "common": 2
+            }
+          },
+          "quantum_metronome": {
+            "0": {
+              "common": 11
+            },
+            "1": {
+              "common": 6,
+              "rare": 2
+            },
+            "2": {
               "common": 1
+            }
+          },
+          "light_of_eggendil": {
+            "1": {
+              "common": 3
+            },
+            "0": {
+              "common": 14
+            }
+          },
+          "vial_martian_dust": {
+            "2": {
+              "common": 10
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "titanium_actuator": {
+            "1": {
+              "common": 13
+            },
+            "0": {
+              "common": 10
+            },
+            "2": {
+              "rare": 1,
+              "common": 3
+            }
+          },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 9
+            }
+          },
+          "lunar_stone": {
+            "1": {
+              "common": 4
+            }
+          },
+          "the_chalice": {
+            "0": {
+              "common": 3
+            },
+            "2": {
+              "rare": 1,
+              "common": 4
+            },
+            "1": {
+              "common": 7
             }
           },
           "soul_stone": {
             "1": {
+              "common": 1
+            }
+          },
+          "dilithium_stone": {
+            "0": {
+              "common": 1
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "terra_stone": {
+            "1": {
+              "common": 4
+            }
+          },
+          "clarity_stone": {
+            "0": {
               "common": 1
             }
           }
@@ -5211,6 +5219,184 @@
       }
     },
     "long": {
+      "6": {
+        "count": 107,
+        "rewards": {
+          "the_chalice": {
+            "0": {
+              "common": 2
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "gold_meteorite": {
+            "1": {
+              "common": 17
+            }
+          },
+          "book_of_basan": {
+            "0": {
+              "common": 3
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 1
+            },
+            "2": {
+              "common": 2
+            }
+          },
+          "phoenix_feather": {
+            "1": {
+              "common": 5
+            },
+            "0": {
+              "common": 3
+            }
+          },
+          "soul_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "aurelian_brooch": {
+            "2": {
+              "common": 2
+            }
+          },
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 6
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "vial_martian_dust": {
+            "2": {
+              "common": 1
+            }
+          },
+          "lunar_totem": {
+            "2": {
+              "common": 1,
+              "rare": 1
+            }
+          },
+          "demeters_necklace": {
+            "2": {
+              "common": 1
+            },
+            "3": {
+              "common": 1
+            }
+          },
+          "tau_ceti_geode": {
+            "1": {
+              "common": 6
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 2
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 6
+            }
+          },
+          "interstellar_compass": {
+            "2": {
+              "common": 1
+            },
+            "0": {
+              "common": 2
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "carved_rainstick": {
+            "0": {
+              "common": 1
+            },
+            "2": {
+              "common": 1
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "beak_of_midas": {
+            "2": {
+              "common": 3
+            }
+          },
+          "titanium_actuator": {
+            "1": {
+              "common": 3
+            },
+            "0": {
+              "common": 10
+            }
+          },
+          "quantum_metronome": {
+            "0": {
+              "common": 1
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "common": 4
+            }
+          },
+          "prophecy_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "dilithium_monocle": {
+            "2": {
+              "common": 1
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "light_of_eggendil": {
+            "0": {
+              "common": 2
+            }
+          },
+          "mercurys_lens": {
+            "1": {
+              "common": 3
+            }
+          },
+          "neodymium_medallion": {
+            "2": {
+              "common": 1
+            },
+            "1": {
+              "common": 1,
+              "rare": 1
+            }
+          },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tachyon_deflector": {
+            "0": {
+              "common": 1
+            }
+          }
+        }
+      },
       "5": {
         "count": 480,
         "rewards": {
@@ -5495,20 +5681,29 @@
           }
         }
       },
-      "6": {
-        "count": 107,
+      "7": {
+        "count": 105,
         "rewards": {
-          "the_chalice": {
-            "0": {
-              "common": 2
+          "aurelian_brooch": {
+            "2": {
+              "common": 4
             },
-            "1": {
+            "3": {
               "common": 1
             }
           },
-          "gold_meteorite": {
+          "demeters_necklace": {
+            "2": {
+              "common": 2
+            },
+            "3": {
+              "common": 2,
+              "epic": 1
+            }
+          },
+          "tau_ceti_geode": {
             "1": {
-              "common": 17
+              "common": 3
             }
           },
           "book_of_basan": {
@@ -5516,88 +5711,36 @@
               "common": 3
             }
           },
-          "tungsten_ankh": {
+          "the_chalice": {
             "1": {
-              "common": 1
+              "common": 2
             },
             "2": {
-              "common": 2
-            }
-          },
-          "phoenix_feather": {
-            "1": {
-              "common": 5
-            },
-            "0": {
               "common": 3
-            }
-          },
-          "soul_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "aurelian_brooch": {
-            "2": {
-              "common": 2
-            }
-          },
-          "ship_in_a_bottle": {
-            "0": {
-              "common": 6
             },
-            "1": {
-              "common": 1
-            }
-          },
-          "vial_martian_dust": {
-            "2": {
+            "0": {
               "common": 1
             }
           },
           "lunar_totem": {
             "2": {
-              "common": 1,
-              "rare": 1
-            }
-          },
-          "demeters_necklace": {
-            "2": {
-              "common": 1
+              "common": 2
             },
             "3": {
-              "common": 1
-            }
-          },
-          "tau_ceti_geode": {
-            "1": {
-              "common": 6
-            }
-          },
-          "quantum_stone": {
-            "0": {
               "common": 2
             }
           },
-          "solar_titanium": {
-            "1": {
-              "common": 6
-            }
-          },
-          "interstellar_compass": {
+          "vial_martian_dust": {
             "2": {
               "common": 1
             },
-            "0": {
-              "common": 2
-            },
             "1": {
-              "common": 1
+              "common": 2
             }
           },
-          "carved_rainstick": {
+          "phoenix_feather": {
             "0": {
-              "common": 1
+              "common": 5
             },
             "2": {
               "common": 1
@@ -5608,67 +5751,128 @@
           },
           "beak_of_midas": {
             "2": {
-              "common": 3
+              "common": 2
+            },
+            "1": {
+              "common": 1
             }
           },
-          "titanium_actuator": {
+          "carved_rainstick": {
+            "2": {
+              "common": 1
+            },
             "1": {
               "common": 3
-            },
-            "0": {
-              "common": 10
             }
           },
           "quantum_metronome": {
-            "0": {
-              "common": 1
-            }
-          },
-          "puzzle_cube": {
-            "2": {
-              "common": 4
-            }
-          },
-          "prophecy_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "dilithium_monocle": {
-            "2": {
-              "common": 1
-            },
             "1": {
+              "common": 5
+            }
+          },
+          "neodymium_medallion": {
+            "1": {
+              "common": 1,
+              "rare": 1
+            },
+            "2": {
+              "common": 2
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 5
+            }
+          },
+          "interstellar_compass": {
+            "0": {
+              "common": 2
+            },
+            "2": {
               "common": 1
             }
           },
           "light_of_eggendil": {
+            "1": {
+              "common": 1
+            }
+          },
+          "gold_meteorite": {
+            "1": {
+              "common": 11
+            }
+          },
+          "lunar_stone": {
+            "1": {
+              "common": 1
+            }
+          },
+          "prophecy_stone_fragment": {
             "0": {
+              "common": 3
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 2
+            }
+          },
+          "tachyon_stone": {
+            "1": {
+              "common": 5
+            }
+          },
+          "titanium_actuator": {
+            "1": {
+              "common": 1
+            }
+          },
+          "terra_stone": {
+            "1": {
               "common": 2
             }
           },
           "mercurys_lens": {
-            "1": {
-              "common": 3
-            }
-          },
-          "neodymium_medallion": {
             "2": {
-              "common": 1
-            },
-            "1": {
-              "common": 1,
-              "rare": 1
-            }
-          },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 1
+              "common": 2
             }
           },
           "tachyon_deflector": {
             "0": {
+              "common": 5
+            }
+          },
+          "life_stone": {
+            "0": {
               "common": 1
+            }
+          },
+          "shell_stone": {
+            "1": {
+              "common": 1
+            }
+          },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "ornate_gusset": {
+            "2": {
+              "common": 2
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "clarity_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 3
             }
           }
         }
@@ -5678,68 +5882,79 @@
   "chicken_heavy": {
     "short": {
       "3": {
-        "count": 5576,
+        "count": 11690,
         "rewards": {
           "puzzle_cube": {
             "1": {
-              "common": 34,
+              "common": 79,
               "epic": 1
             },
             "0": {
-              "common": 243
+              "common": 518
             }
           },
           "aurelian_brooch": {
             "0": {
-              "common": 326
+              "common": 701
             }
           },
           "vial_martian_dust": {
             "0": {
-              "common": 637
+              "common": 1369
             }
           },
           "gold_meteorite": {
             "0": {
-              "common": 2706
+              "common": 5396
             }
           },
           "lunar_stone_fragment": {
             "0": {
-              "common": 239
+              "common": 581
             }
           },
           "shell_stone_fragment": {
             "0": {
-              "common": 112
+              "common": 301
             }
           },
           "demeters_necklace": {
             "0": {
-              "common": 520
+              "common": 1109
             }
           },
           "lunar_totem": {
             "1": {
-              "common": 81
+              "common": 168,
+              "rare": 3
             },
             "0": {
-              "common": 325
+              "common": 701
             }
           },
           "tungsten_ankh": {
             "0": {
-              "common": 251
+              "common": 537
             }
           },
           "tau_ceti_geode": {
             "0": {
-              "common": 53
+              "common": 105
             }
           },
           "ornate_gusset": {
             "0": {
-              "common": 48
+              "common": 117
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 3
             }
           }
         }
@@ -5842,14 +6057,17 @@
               "common": 120
             }
           },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 56
-            }
-          },
           "demeters_necklace": {
             "0": {
               "common": 84
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 8
+            },
+            "0": {
+              "common": 40
             }
           },
           "aurelian_brooch": {
@@ -5857,12 +6075,9 @@
               "common": 65
             }
           },
-          "puzzle_cube": {
+          "lunar_stone_fragment": {
             "0": {
-              "common": 40
-            },
-            "1": {
-              "common": 8
+              "common": 56
             }
           },
           "tau_ceti_geode": {
@@ -5921,14 +6136,14 @@
               "common": 13
             }
           },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
           "vial_martian_dust": {
             "0": {
               "common": 23
+            }
+          },
+          "shell_stone_fragment": {
+            "0": {
+              "common": 3
             }
           },
           "tau_ceti_geode": {
@@ -6013,16 +6228,6 @@
               "common": 6
             }
           },
-          "mercurys_lens": {
-            "0": {
-              "common": 1
-            }
-          },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
           "shell_stone": {
             "0": {
               "common": 1
@@ -6034,6 +6239,16 @@
             }
           },
           "neodymium_medallion": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "mercurys_lens": {
             "0": {
               "common": 1
             }
@@ -6119,14 +6334,14 @@
       "3": {
         "count": 62,
         "rewards": {
+          "shell_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
           "demeters_necklace": {
             "0": {
               "common": 6
-            }
-          },
-          "aurelian_brooch": {
-            "0": {
-              "common": 7
             }
           },
           "gold_meteorite": {
@@ -6134,7 +6349,40 @@
               "common": 16
             }
           },
-          "shell_stone_fragment": {
+          "vial_martian_dust": {
+            "0": {
+              "common": 6
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 3
+            }
+          },
+          "aurelian_brooch": {
+            "0": {
+              "common": 7
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 3
+            }
+          },
+          "lunar_totem": {
+            "0": {
+              "common": 1
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 4
+            }
+          },
+          "lunar_stone_fragment": {
             "0": {
               "common": 5
             }
@@ -6152,42 +6400,9 @@
               "common": 1
             }
           },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 3
-            }
-          },
           "ornate_gusset": {
             "0": {
               "common": 2
-            }
-          },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 5
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 4
-            }
-          },
-          "vial_martian_dust": {
-            "0": {
-              "common": 6
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 3
-            }
-          },
-          "lunar_totem": {
-            "0": {
-              "common": 1
-            },
-            "1": {
-              "common": 1
             }
           }
         }
@@ -6331,6 +6546,11 @@
               "common": 17
             }
           },
+          "shell_stone": {
+            "0": {
+              "common": 6
+            }
+          },
           "mercurys_lens": {
             "0": {
               "common": 4
@@ -6339,11 +6559,6 @@
           "tachyon_stone_fragment": {
             "0": {
               "common": 22
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 6
             }
           },
           "quantum_stone_fragment": {
@@ -6461,126 +6676,14 @@
               "common": 16
             }
           },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 1
-            }
-          },
           "beak_of_midas": {
             "0": {
               "common": 7
             }
           },
-          "lunar_stone": {
-            "0": {
-              "common": 1
-            }
-          }
-        }
-      },
-      "3": {
-        "count": 304,
-        "rewards": {
-          "vial_martian_dust": {
-            "0": {
-              "common": 19
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 46
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 30
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 5
-            }
-          },
-          "ornate_gusset": {
-            "0": {
-              "common": 24
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 18
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 4
-            }
-          },
-          "aurelian_brooch": {
-            "0": {
-              "common": 17
-            }
-          },
-          "demeters_necklace": {
-            "1": {
-              "common": 9,
-              "rare": 1
-            },
-            "0": {
-              "common": 10
-            }
-          },
-          "gold_meteorite": {
-            "0": {
-              "common": 58
-            }
-          },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 11
-            }
-          },
-          "lunar_totem": {
-            "1": {
-              "common": 13
-            },
-            "0": {
-              "common": 6
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 12
-            }
-          },
-          "tachyon_stone": {
-            "0": {
-              "common": 2
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "puzzle_cube": {
-            "1": {
-              "common": 9
-            }
-          },
           "quantum_stone_fragment": {
             "0": {
-              "common": 2
+              "common": 1
             }
           },
           "lunar_stone": {
@@ -6593,12 +6696,68 @@
       "0": {
         "count": 270,
         "rewards": {
+          "ornate_gusset": {
+            "0": {
+              "common": 24
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 15
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 58
+            }
+          },
+          "demeters_necklace": {
+            "1": {
+              "common": 9
+            },
+            "0": {
+              "common": 5
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 29
+            }
+          },
           "aurelian_brooch": {
             "0": {
               "common": 10
             },
             "1": {
               "common": 1
+            }
+          },
+          "lunar_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "shell_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 2
+            }
+          },
+          "lunar_totem": {
+            "1": {
+              "common": 10
+            },
+            "0": {
+              "common": 4
+            }
+          },
+          "vial_martian_dust": {
+            "0": {
+              "common": 13
             }
           },
           "gold_meteorite": {
@@ -6611,47 +6770,6 @@
               "common": 6
             }
           },
-          "demeters_necklace": {
-            "1": {
-              "common": 9
-            },
-            "0": {
-              "common": 5
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 58
-            }
-          },
-          "lunar_totem": {
-            "1": {
-              "common": 10
-            },
-            "0": {
-              "common": 4
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 29
-            }
-          },
-          "ornate_gusset": {
-            "0": {
-              "common": 24
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 15
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 4
-            }
-          },
           "puzzle_cube": {
             "0": {
               "common": 8
@@ -6660,19 +6778,14 @@
               "common": 3
             }
           },
-          "beak_of_midas": {
+          "tachyon_stone": {
             "0": {
-              "common": 2
+              "common": 1
             }
           },
-          "vial_martian_dust": {
+          "neodymium_medallion": {
             "0": {
-              "common": 13
-            }
-          },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 6
+              "common": 4
             }
           },
           "mercurys_lens": {
@@ -6680,14 +6793,116 @@
               "common": 4
             }
           },
-          "shell_stone_fragment": {
+          "lunar_stone": {
             "0": {
-              "common": 5
+              "common": 1
+            }
+          }
+        }
+      },
+      "3": {
+        "count": 304,
+        "rewards": {
+          "tau_ceti_geode": {
+            "0": {
+              "common": 46
+            }
+          },
+          "lunar_stone_fragment": {
+            "0": {
+              "common": 11
+            }
+          },
+          "demeters_necklace": {
+            "1": {
+              "common": 9,
+              "rare": 1
+            },
+            "0": {
+              "common": 10
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 12
+            }
+          },
+          "ornate_gusset": {
+            "0": {
+              "common": 24
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 58
+            }
+          },
+          "aurelian_brooch": {
+            "0": {
+              "common": 17
+            }
+          },
+          "lunar_totem": {
+            "1": {
+              "common": 13
+            },
+            "0": {
+              "common": 6
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 9
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 30
             }
           },
           "tachyon_stone": {
             "0": {
+              "common": 2
+            }
+          },
+          "vial_martian_dust": {
+            "0": {
+              "common": 19
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 5
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 18
+            }
+          },
+          "shell_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "mercurys_lens": {
+            "0": {
+              "common": 4
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "shell_stone": {
+            "0": {
               "common": 1
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 2
             }
           },
           "lunar_stone": {
@@ -6807,14 +7022,14 @@
               "common": 2
             }
           },
-          "lunar_stone": {
-            "0": {
-              "common": 3
-            }
-          },
           "tachyon_stone": {
             "0": {
               "common": 2
+            }
+          },
+          "lunar_stone": {
+            "0": {
+              "common": 3
             }
           }
         }
@@ -6822,55 +7037,9 @@
       "1": {
         "count": 119,
         "rewards": {
-          "gold_meteorite": {
+          "mercurys_lens": {
             "0": {
-              "common": 19
-            }
-          },
-          "puzzle_cube": {
-            "0": {
-              "common": 2
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 17
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 17
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 4
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 9
-            }
-          },
-          "demeters_necklace": {
-            "0": {
-              "common": 4
-            },
-            "1": {
-              "common": 3
+              "common": 6
             }
           },
           "vial_martian_dust": {
@@ -6878,9 +7047,24 @@
               "common": 5
             }
           },
-          "mercurys_lens": {
+          "gold_meteorite": {
             "0": {
-              "common": 6
+              "common": 19
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 17
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 9
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 17
             }
           },
           "lunar_stone_fragment": {
@@ -6898,7 +7082,38 @@
               "common": 3
             }
           },
+          "demeters_necklace": {
+            "1": {
+              "common": 3
+            },
+            "0": {
+              "common": 4
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
           "aurelian_brooch": {
+            "0": {
+              "common": 3
+            }
+          },
+          "puzzle_cube": {
+            "0": {
+              "common": 2
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 4
+            }
+          },
+          "shell_stone_fragment": {
             "0": {
               "common": 3
             }
@@ -7030,14 +7245,19 @@
       "0": {
         "count": 182,
         "rewards": {
+          "tau_ceti_geode": {
+            "0": {
+              "common": 26
+            }
+          },
           "solar_titanium": {
             "0": {
               "common": 23
             }
           },
-          "mercurys_lens": {
+          "lunar_stone": {
             "0": {
-              "common": 10
+              "common": 2
             }
           },
           "gold_meteorite": {
@@ -7045,34 +7265,24 @@
               "common": 18
             }
           },
-          "terra_stone_fragment": {
+          "tachyon_stone": {
             "0": {
-              "common": 4
+              "common": 1
             }
           },
-          "tau_ceti_geode": {
+          "mercurys_lens": {
             "0": {
-              "common": 26
+              "common": 10
             }
           },
-          "beak_of_midas": {
+          "ornate_gusset": {
             "0": {
-              "common": 7
+              "common": 9
             }
           },
-          "life_stone_fragment": {
+          "shell_stone_fragment": {
             "0": {
-              "common": 5
-            }
-          },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 8
+              "common": 6
             }
           },
           "lunar_stone_fragment": {
@@ -7080,9 +7290,24 @@
               "common": 9
             }
           },
-          "ornate_gusset": {
+          "tachyon_stone_fragment": {
             "0": {
-              "common": 9
+              "common": 12
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 4
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 8
             }
           },
           "demeters_necklace": {
@@ -7093,20 +7318,7 @@
               "common": 2
             }
           },
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "vial_martian_dust": {
-            "0": {
-              "common": 4
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "soul_stone_fragment": {
+          "neodymium_medallion": {
             "0": {
               "common": 3
             }
@@ -7120,143 +7332,43 @@
               "common": 1
             }
           },
-          "neodymium_medallion": {
+          "beak_of_midas": {
             "0": {
-              "common": 3
+              "common": 7
             }
           },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 12
-            }
-          },
-          "puzzle_cube": {
-            "1": {
-              "common": 4
-            }
-          },
-          "aurelian_brooch": {
-            "1": {
-              "common": 2
-            },
-            "0": {
-              "common": 6
-            }
-          },
-          "lunar_stone": {
-            "0": {
-              "common": 2
-            }
-          },
-          "tachyon_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          }
-        }
-      },
-      "3": {
-        "count": 60,
-        "rewards": {
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 9
-            }
-          },
-          "lunar_totem": {
-            "1": {
-              "common": 2
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 8
-            }
-          },
-          "neodymium_medallion": {
+          "dilithium_stone_fragment": {
             "0": {
               "common": 4
-            }
-          },
-          "gold_meteorite": {
-            "0": {
-              "common": 3
-            }
-          },
-          "puzzle_cube": {
-            "1": {
-              "common": 1
-            }
-          },
-          "lunar_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 2
             }
           },
           "terra_stone_fragment": {
             "0": {
-              "common": 5
+              "common": 4
             }
           },
-          "ornate_gusset": {
+          "vial_martian_dust": {
             "0": {
-              "common": 2
-            }
-          },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
-          "aurelian_brooch": {
-            "0": {
-              "common": 1
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 2
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 2
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 1
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 1
-            }
-          },
-          "demeters_necklace": {
-            "0": {
-              "common": 1
+              "common": 4
             },
             "1": {
               "common": 1
             }
           },
+          "aurelian_brooch": {
+            "0": {
+              "common": 6
+            },
+            "1": {
+              "common": 2
+            }
+          },
           "soul_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
+          "quantum_stone_fragment": {
             "0": {
               "common": 4
             }
@@ -7337,6 +7449,109 @@
           "tachyon_stone": {
             "0": {
               "common": 1
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 1
+            }
+          }
+        }
+      },
+      "3": {
+        "count": 60,
+        "rewards": {
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 8
+            }
+          },
+          "ornate_gusset": {
+            "0": {
+              "common": 2
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 9
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 3
+            }
+          },
+          "aurelian_brooch": {
+            "0": {
+              "common": 1
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 2
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 2
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 4
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "mercurys_lens": {
+            "0": {
+              "common": 1
+            }
+          },
+          "demeters_necklace": {
+            "0": {
+              "common": 1
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "lunar_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "soul_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "shell_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "lunar_totem": {
+            "1": {
+              "common": 2
             }
           },
           "puzzle_cube": {
@@ -7520,118 +7735,13 @@
               "common": 2
             }
           },
-          "quantum_stone": {
-            "0": {
-              "common": 1
-            }
-          },
           "titanium_actuator": {
             "0": {
               "common": 1
             }
-          }
-        }
-      },
-      "0": {
-        "count": 48,
-        "rewards": {
-          "soul_stone_fragment": {
+          },
+          "quantum_stone": {
             "0": {
-              "common": 5
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 5
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 2
-            }
-          },
-          "shell_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "vial_martian_dust": {
-            "1": {
-              "common": 1
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 6
-            }
-          },
-          "the_chalice": {
-            "0": {
-              "common": 1
-            }
-          },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 5
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 2
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 1
-            }
-          },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "tachyon_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "lunar_totem": {
-            "2": {
-              "common": 1
-            }
-          },
-          "ornate_gusset": {
-            "0": {
-              "common": 1
-            }
-          },
-          "gold_meteorite": {
-            "0": {
-              "common": 2
-            }
-          },
-          "demeters_necklace": {
-            "1": {
-              "common": 1
-            }
-          },
-          "neodymium_medallion": {
-            "1": {
               "common": 1
             }
           }
@@ -7765,6 +7875,111 @@
             }
           }
         }
+      },
+      "0": {
+        "count": 48,
+        "rewards": {
+          "soul_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 5
+            }
+          },
+          "mercurys_lens": {
+            "0": {
+              "common": 2
+            }
+          },
+          "shell_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "dilithium_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "vial_martian_dust": {
+            "1": {
+              "common": 1
+            }
+          },
+          "shell_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 6
+            }
+          },
+          "the_chalice": {
+            "0": {
+              "common": 1
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 2
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "tachyon_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "lunar_totem": {
+            "2": {
+              "common": 1
+            }
+          },
+          "ornate_gusset": {
+            "0": {
+              "common": 1
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 2
+            }
+          },
+          "demeters_necklace": {
+            "1": {
+              "common": 1
+            }
+          },
+          "neodymium_medallion": {
+            "1": {
+              "common": 1
+            }
+          }
+        }
       }
     },
     "short": {
@@ -7850,16 +8065,6 @@
               "common": 3
             }
           },
-          "puzzle_cube": {
-            "1": {
-              "common": 7
-            }
-          },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
           "shell_stone": {
             "0": {
               "common": 3
@@ -7870,9 +8075,14 @@
               "common": 9
             }
           },
-          "lunar_stone_fragment": {
+          "puzzle_cube": {
+            "1": {
+              "common": 7
+            }
+          },
+          "soul_stone_fragment": {
             "0": {
-              "common": 3
+              "common": 2
             }
           },
           "dilithium_stone_fragment": {
@@ -7883,6 +8093,11 @@
           "tachyon_stone": {
             "0": {
               "common": 1
+            }
+          },
+          "lunar_stone_fragment": {
+            "0": {
+              "common": 3
             }
           }
         }
@@ -7943,11 +8158,6 @@
               "common": 4
             }
           },
-          "lunar_totem": {
-            "1": {
-              "common": 5
-            }
-          },
           "mercurys_lens": {
             "0": {
               "common": 15
@@ -7958,14 +8168,9 @@
               "common": 9
             }
           },
-          "demeters_necklace": {
+          "lunar_totem": {
             "1": {
-              "common": 8
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 2
+              "common": 5
             }
           },
           "vial_martian_dust": {
@@ -7973,14 +8178,24 @@
               "common": 6
             }
           },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 1
+          "demeters_necklace": {
+            "1": {
+              "common": 8
             }
           },
           "shell_stone_fragment": {
             "0": {
               "common": 3
+            }
+          },
+          "soul_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "shell_stone": {
+            "0": {
+              "common": 2
             }
           }
         }
@@ -7993,29 +8208,9 @@
               "common": 22
             }
           },
-          "beak_of_midas": {
-            "0": {
-              "common": 11
-            }
-          },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 43
-            }
-          },
           "solar_titanium": {
             "0": {
               "common": 40
-            }
-          },
-          "demeters_necklace": {
-            "1": {
-              "common": 8
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 20
             }
           },
           "ornate_gusset": {
@@ -8023,47 +8218,14 @@
               "common": 12
             }
           },
-          "vial_martian_dust": {
+          "tau_ceti_geode": {
             "0": {
-              "common": 6
+              "common": 43
             }
           },
-          "tachyon_stone_fragment": {
+          "mercurys_lens": {
             "0": {
-              "common": 1
-            }
-          },
-          "puzzle_cube": {
-            "1": {
-              "common": 8
-            }
-          },
-          "aurelian_brooch": {
-            "0": {
-              "common": 2
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 12
-            }
-          },
-          "lunar_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "tungsten_ankh": {
-            "0": {
-              "common": 4
-            }
-          },
-          "tachyon_stone": {
-            "0": {
-              "common": 2
+              "common": 20
             }
           },
           "shell_stone_fragment": {
@@ -8071,9 +8233,52 @@
               "common": 3
             }
           },
+          "vial_martian_dust": {
+            "0": {
+              "common": 6
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 12
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 8
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 11
+            }
+          },
+          "aurelian_brooch": {
+            "1": {
+              "common": 1
+            },
+            "0": {
+              "common": 2
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 4
+            }
+          },
+          "demeters_necklace": {
+            "1": {
+              "common": 8
+            }
+          },
           "shell_stone": {
             "0": {
               "common": 1
+            }
+          },
+          "tachyon_stone": {
+            "0": {
+              "common": 2
             }
           },
           "quantum_stone_fragment": {
@@ -8087,6 +8292,16 @@
             }
           },
           "lunar_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "lunar_stone": {
             "0": {
               "common": 1
             }
@@ -8314,57 +8529,27 @@
       "1": {
         "count": 72,
         "rewards": {
-          "gold_meteorite": {
-            "0": {
-              "common": 6
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 2
-            }
-          },
           "tau_ceti_geode": {
             "0": {
               "common": 8
             }
           },
-          "ornate_gusset": {
+          "dilithium_stone_fragment": {
             "0": {
               "common": 4
             }
           },
-          "shell_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "tachyon_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "tungsten_ankh": {
+          "solar_titanium": {
             "0": {
               "common": 4
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 5
             }
           },
           "soul_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 1
-            }
-          },
-          "neodymium_medallion": {
             "0": {
               "common": 4
             }
@@ -8374,33 +8559,13 @@
               "common": 3
             }
           },
-          "solar_titanium": {
-            "0": {
-              "common": 4
-            }
-          },
           "demeters_necklace": {
             "1": {
-              "common": 3,
-              "rare": 1
-            }
-          },
-          "puzzle_cube": {
-            "1": {
+              "rare": 1,
               "common": 3
             }
           },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 5
-            }
-          },
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "lunar_stone_fragment": {
+          "the_chalice": {
             "0": {
               "common": 1
             }
@@ -8410,9 +8575,29 @@
               "common": 3
             }
           },
-          "the_chalice": {
+          "mercurys_lens": {
             "0": {
-              "common": 1
+              "common": 2
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 6
+            }
+          },
+          "tungsten_ankh": {
+            "0": {
+              "common": 4
+            }
+          },
+          "puzzle_cube": {
+            "1": {
+              "common": 3
             }
           },
           "aurelian_brooch": {
@@ -8423,7 +8608,37 @@
               "common": 1
             }
           },
+          "ornate_gusset": {
+            "0": {
+              "common": 4
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 4
+            }
+          },
           "vial_martian_dust": {
+            "0": {
+              "common": 1
+            }
+          },
+          "shell_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tachyon_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "lunar_stone_fragment": {
             "0": {
               "common": 1
             }
@@ -8857,6 +9072,11 @@
               "common": 3
             }
           },
+          "shell_stone": {
+            "0": {
+              "common": 3
+            }
+          },
           "tungsten_ankh": {
             "0": {
               "common": 9
@@ -8865,11 +9085,6 @@
           "lunar_stone": {
             "0": {
               "common": 4
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 3
             }
           },
           "quantum_stone_fragment": {
@@ -8961,27 +9176,17 @@
               "common": 30
             }
           },
+          "puzzle_cube": {
+            "1": {
+              "common": 20
+            },
+            "0": {
+              "common": 10
+            }
+          },
           "neodymium_medallion": {
             "0": {
               "common": 14
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 5
-            }
-          },
-          "lunar_stone": {
-            "0": {
-              "common": 2
-            }
-          },
-          "puzzle_cube": {
-            "0": {
-              "common": 10
-            },
-            "1": {
-              "common": 20
             }
           },
           "shell_stone": {
@@ -8989,7 +9194,7 @@
               "common": 8
             }
           },
-          "quantum_stone_fragment": {
+          "lunar_stone": {
             "0": {
               "common": 2
             }
@@ -8998,43 +9203,63 @@
             "0": {
               "common": 4
             }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 5
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 2
+            }
           }
         }
       },
       "0": {
         "count": 132,
         "rewards": {
-          "gold_meteorite": {
-            "0": {
-              "common": 27
-            }
-          },
-          "puzzle_cube": {
-            "1": {
-              "common": 6
-            },
-            "0": {
-              "common": 3
-            }
-          },
           "tau_ceti_geode": {
             "0": {
               "common": 21
             }
           },
-          "tungsten_ankh": {
+          "solar_titanium": {
             "0": {
-              "common": 5
-            }
-          },
-          "demeters_necklace": {
-            "0": {
-              "common": 3
+              "common": 13
             }
           },
           "aurelian_brooch": {
             "0": {
               "common": 9
+            }
+          },
+          "gold_meteorite": {
+            "0": {
+              "common": 27
+            }
+          },
+          "ornate_gusset": {
+            "0": {
+              "common": 5
+            }
+          },
+          "puzzle_cube": {
+            "0": {
+              "common": 3
+            },
+            "1": {
+              "common": 6
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 2
+            }
+          },
+          "vial_martian_dust": {
+            "0": {
+              "common": 10
             }
           },
           "shell_stone_fragment": {
@@ -9047,27 +9272,7 @@
               "common": 7
             }
           },
-          "vial_martian_dust": {
-            "0": {
-              "common": 10
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 3
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 13
-            }
-          },
-          "lunar_totem": {
-            "0": {
-              "common": 3
-            }
-          },
-          "ornate_gusset": {
+          "tungsten_ankh": {
             "0": {
               "common": 5
             }
@@ -9077,9 +9282,24 @@
               "common": 2
             }
           },
-          "neodymium_medallion": {
+          "lunar_totem": {
             "0": {
-              "common": 2
+              "common": 3
+            }
+          },
+          "demeters_necklace": {
+            "0": {
+              "common": 3
+            }
+          },
+          "beak_of_midas": {
+            "0": {
+              "common": 3
+            }
+          },
+          "lunar_stone": {
+            "0": {
+              "common": 1
             }
           },
           "soul_stone_fragment": {
@@ -9088,11 +9308,6 @@
             }
           },
           "shell_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "lunar_stone": {
             "0": {
               "common": 1
             }
@@ -9551,17 +9766,17 @@
               "common": 17
             }
           },
+          "lunar_totem": {
+            "1": {
+              "common": 14
+            },
+            "0": {
+              "common": 14
+            }
+          },
           "neodymium_medallion": {
             "0": {
               "common": 7
-            }
-          },
-          "lunar_totem": {
-            "0": {
-              "common": 14
-            },
-            "1": {
-              "common": 14
             }
           },
           "solar_titanium": {
@@ -9670,9 +9885,9 @@
               "common": 7
             }
           },
-          "neodymium_medallion": {
+          "mercurys_lens": {
             "0": {
-              "common": 6
+              "common": 1
             }
           },
           "shell_stone": {
@@ -9680,9 +9895,9 @@
               "common": 2
             }
           },
-          "mercurys_lens": {
+          "neodymium_medallion": {
             "0": {
-              "common": 1
+              "common": 6
             }
           }
         }
@@ -9690,14 +9905,33 @@
       "3": {
         "count": 1026,
         "rewards": {
+          "gold_meteorite": {
+            "0": {
+              "common": 253
+            }
+          },
           "lunar_stone_fragment": {
             "0": {
               "common": 52
             }
           },
-          "gold_meteorite": {
+          "puzzle_cube": {
+            "1": {
+              "common": 46,
+              "epic": 2
+            },
             "0": {
-              "common": 253
+              "common": 25
+            }
+          },
+          "solar_titanium": {
+            "0": {
+              "common": 30
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 11
             }
           },
           "shell_stone_fragment": {
@@ -9705,9 +9939,14 @@
               "common": 63
             }
           },
-          "tungsten_ankh": {
+          "vial_martian_dust": {
             "0": {
-              "common": 64
+              "common": 74
+            }
+          },
+          "tau_ceti_geode": {
+            "0": {
+              "common": 114
             }
           },
           "lunar_totem": {
@@ -9719,14 +9958,9 @@
               "common": 24
             }
           },
-          "tau_ceti_geode": {
+          "aurelian_brooch": {
             "0": {
-              "common": 114
-            }
-          },
-          "vial_martian_dust": {
-            "0": {
-              "common": 74
+              "common": 73
             }
           },
           "demeters_necklace": {
@@ -9737,38 +9971,19 @@
               "common": 10
             }
           },
+          "tungsten_ankh": {
+            "0": {
+              "common": 64
+            }
+          },
           "ornate_gusset": {
             "0": {
               "common": 77
             }
           },
-          "aurelian_brooch": {
+          "mercurys_lens": {
             "0": {
-              "common": 73
-            }
-          },
-          "puzzle_cube": {
-            "0": {
-              "common": 25
-            },
-            "1": {
-              "common": 46,
-              "epic": 2
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 11
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 30
-            }
-          },
-          "lunar_stone": {
-            "0": {
-              "common": 3
+              "common": 4
             }
           },
           "tachyon_stone_fragment": {
@@ -9776,12 +9991,12 @@
               "common": 17
             }
           },
-          "shell_stone": {
+          "lunar_stone": {
             "0": {
-              "common": 4
+              "common": 3
             }
           },
-          "mercurys_lens": {
+          "shell_stone": {
             "0": {
               "common": 4
             }
@@ -10190,12 +10405,12 @@
               "common": 37
             }
           },
-          "shell_stone": {
+          "tachyon_stone": {
             "1": {
               "common": 3
             }
           },
-          "tachyon_stone": {
+          "shell_stone": {
             "1": {
               "common": 3
             }
@@ -10434,19 +10649,24 @@
               "common": 10
             }
           },
+          "tachyon_stone": {
+            "1": {
+              "common": 1
+            }
+          },
           "quantum_stone_fragment": {
             "0": {
               "common": 10
             }
           },
-          "light_of_eggendil": {
-            "0": {
-              "common": 2
-            }
-          },
           "dilithium_stone": {
             "0": {
               "common": 1
+            }
+          },
+          "light_of_eggendil": {
+            "0": {
+              "common": 2
             }
           },
           "tachyon_deflector": {
@@ -10457,11 +10677,6 @@
           "shell_stone": {
             "1": {
               "common": 2
-            }
-          },
-          "tachyon_stone": {
-            "1": {
-              "common": 1
             }
           },
           "tau_ceti_geode": {
@@ -10611,22 +10826,17 @@
               "common": 1
             }
           },
-          "ornate_gusset": {
+          "aurelian_brooch": {
             "1": {
-              "common": 15
+              "common": 7
             },
             "2": {
-              "common": 1
+              "common": 6
             }
           },
-          "quantum_stone": {
+          "clarity_stone_fragment": {
             "0": {
-              "common": 4
-            }
-          },
-          "solar_titanium": {
-            "1": {
-              "common": 18
+              "common": 6
             }
           },
           "phoenix_feather": {
@@ -10637,17 +10847,20 @@
               "common": 5
             }
           },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "book_of_basan": {
-            "0": {
+          "ornate_gusset": {
+            "1": {
+              "common": 15
+            },
+            "2": {
               "common": 1
             }
           },
-          "clarity_stone_fragment": {
+          "solar_titanium": {
+            "1": {
+              "common": 18
+            }
+          },
+          "soul_stone_fragment": {
             "0": {
               "common": 6
             }
@@ -10657,22 +10870,29 @@
               "common": 3
             }
           },
-          "aurelian_brooch": {
-            "1": {
-              "common": 7
-            },
-            "2": {
-              "common": 6
+          "quantum_stone": {
+            "0": {
+              "common": 4
             }
           },
-          "tachyon_deflector": {
+          "terra_stone": {
             "0": {
-              "common": 2
+              "common": 1
+            }
+          },
+          "book_of_basan": {
+            "0": {
+              "common": 1
             }
           },
           "soul_stone": {
             "0": {
               "common": 4
+            }
+          },
+          "tachyon_deflector": {
+            "0": {
+              "common": 2
             }
           },
           "lunar_stone": {
@@ -10684,80 +10904,155 @@
             "0": {
               "common": 1
             }
-          },
-          "terra_stone": {
-            "0": {
-              "common": 1
-            }
           }
         }
       }
     },
-    "long": {
-      "2": {
-        "count": 202,
+    "epic": {
+      "1": {
+        "count": 188,
         "rewards": {
-          "terra_stone_fragment": {
+          "life_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "soul_stone": {
+            "0": {
+              "common": 2
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "clarity_stone": {
+            "0": {
+              "common": 2
+            }
+          },
+          "the_chalice": {
+            "1": {
+              "common": 1
+            },
+            "2": {
+              "common": 2
+            },
             "0": {
               "common": 6
             }
           },
-          "titanium_actuator": {
-            "0": {
-              "common": 10
-            },
+          "phoenix_feather": {
             "1": {
-              "common": 1
-            }
-          },
-          "dilithium_monocle": {
-            "0": {
-              "common": 12
+              "common": 3
             },
-            "1": {
-              "common": 1
-            }
-          },
-          "the_chalice": {
             "0": {
-              "common": 8
-            },
-            "1": {
-              "common": 7
+              "common": 5
             },
             "2": {
               "common": 1
             }
           },
-          "prophecy_stone_fragment": {
+          "carved_rainstick": {
+            "2": {
+              "common": 3
+            },
+            "1": {
+              "common": 3
+            },
             "0": {
-              "common": 6
+              "common": 2
             }
           },
-          "ship_in_a_bottle": {
-            "0": {
-              "common": 11
+          "gold_meteorite": {
+            "1": {
+              "common": 18
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "rare": 1,
+              "common": 3
+            }
+          },
+          "neodymium_medallion": {
+            "2": {
+              "common": 3
+            },
+            "1": {
+              "common": 1
             }
           },
           "tau_ceti_geode": {
             "1": {
-              "common": 2
+              "common": 5
             }
           },
-          "lunar_totem": {
-            "3": {
-              "common": 3
+          "ornate_gusset": {
+            "1": {
+              "common": 1
             },
             "2": {
               "common": 2
             }
           },
-          "life_stone_fragment": {
+          "dilithium_monocle": {
             "0": {
-              "common": 6
+              "common": 5
+            },
+            "1": {
+              "common": 1
             }
           },
-          "tungsten_ankh": {
+          "lunar_stone": {
+            "1": {
+              "common": 1
+            }
+          },
+          "quantum_metronome": {
+            "1": {
+              "common": 3,
+              "rare": 1
+            },
+            "0": {
+              "common": 2
+            }
+          },
+          "prophecy_stone_fragment": {
+            "0": {
+              "common": 11
+            }
+          },
+          "terra_stone": {
+            "0": {
+              "common": 1
+            },
+            "1": {
+              "common": 3
+            }
+          },
+          "life_stone": {
+            "0": {
+              "common": 2
+            }
+          },
+          "tachyon_deflector": {
+            "1": {
+              "common": 1
+            },
+            "0": {
+              "common": 3
+            }
+          },
+          "demeters_necklace": {
+            "2": {
+              "rare": 1,
+              "common": 4
+            }
+          },
+          "interstellar_compass": {
+            "0": {
+              "common": 6
+            },
             "1": {
               "common": 4
             },
@@ -10767,89 +11062,36 @@
           },
           "solar_titanium": {
             "1": {
-              "common": 15
+              "common": 9
             }
           },
-          "interstellar_compass": {
+          "shell_stone": {
             "1": {
-              "common": 3
-            },
-            "2": {
-              "common": 3
+              "common": 2
             }
           },
-          "ornate_gusset": {
+          "tachyon_stone": {
             "1": {
-              "common": 5
-            },
-            "2": {
-              "common": 1
+              "common": 2
             }
           },
-          "soul_stone": {
+          "book_of_basan": {
             "0": {
-              "common": 1
-            }
-          },
-          "quantum_metronome": {
-            "1": {
-              "common": 4
-            },
-            "0": {
-              "common": 8
+              "common": 3
             }
           },
           "aurelian_brooch": {
             "2": {
               "common": 3
-            }
-          },
-          "mercurys_lens": {
-            "1": {
-              "common": 6
+            },
+            "3": {
+              "common": 1
             }
           },
           "beak_of_midas": {
             "2": {
-              "common": 3,
-              "rare": 1
-            },
-            "1": {
               "common": 5
-            }
-          },
-          "dilithium_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "phoenix_feather": {
-            "1": {
-              "common": 4
             },
-            "0": {
-              "common": 1
-            }
-          },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "neodymium_medallion": {
-            "2": {
-              "common": 4
-            },
-            "1": {
-              "common": 2
-            }
-          },
-          "puzzle_cube": {
-            "2": {
-              "common": 2
-            }
-          },
-          "lunar_stone": {
             "1": {
               "common": 2
             }
@@ -10859,45 +11101,73 @@
               "common": 2
             }
           },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 7
+          "lunar_totem": {
+            "2": {
+              "common": 3
+            },
+            "3": {
+              "common": 3
             }
           },
-          "carved_rainstick": {
+          "titanium_actuator": {
             "0": {
-              "common": 3
+              "common": 5
             },
             "1": {
               "common": 1
             }
           },
-          "shell_stone": {
+          "quantum_stone": {
+            "0": {
+              "common": 1
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 8
+            }
+          },
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 2
+            }
+          },
+          "tungsten_ankh": {
+            "2": {
+              "common": 2,
+              "rare": 1
+            },
             "1": {
               "common": 1
             }
           },
-          "gold_meteorite": {
-            "1": {
-              "common": 13
-            }
-          },
-          "demeters_necklace": {
-            "2": {
-              "common": 4
+          "dilithium_stone": {
+            "0": {
+              "common": 2
             }
           },
           "vial_martian_dust": {
-            "2": {
-              "common": 2,
-              "epic": 1
-            },
             "1": {
-              "common": 3
+              "rare": 1
+            },
+            "2": {
+              "common": 1
             }
           },
-          "tachyon_stone": {
+          "mercurys_lens": {
+            "2": {
+              "common": 1
+            },
             "1": {
+              "common": 3,
+              "rare": 1
+            }
+          },
+          "soul_stone_fragment": {
+            "0": {
               "common": 1
             }
           },
@@ -10906,38 +11176,15 @@
               "common": 1
             }
           },
-          "quantum_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 1
-            }
-          },
-          "clarity_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "book_of_basan": {
-            "0": {
-              "common": 1
-            }
-          },
-          "life_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "terra_stone": {
+          "terra_stone_fragment": {
             "0": {
               "common": 1
             }
           }
         }
-      },
+      }
+    },
+    "long": {
       "1": {
         "count": 180,
         "rewards": {
@@ -11151,138 +11398,247 @@
             }
           }
         }
-      }
-    },
-    "epic": {
-      "1": {
-        "count": 50,
+      },
+      "2": {
+        "count": 202,
         "rewards": {
-          "clarity_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "solar_titanium": {
-            "1": {
-              "common": 3
-            }
-          },
           "quantum_metronome": {
             "1": {
-              "common": 1
-            }
-          },
-          "puzzle_cube": {
-            "2": {
-              "common": 3
-            }
-          },
-          "tau_ceti_geode": {
-            "1": {
-              "common": 3
-            }
-          },
-          "interstellar_compass": {
-            "0": {
-              "common": 3
-            }
-          },
-          "neodymium_medallion": {
-            "2": {
-              "common": 1
-            }
-          },
-          "carved_rainstick": {
-            "1": {
-              "common": 1
+              "common": 4
             },
-            "2": {
-              "common": 2
-            }
-          },
-          "prophecy_stone_fragment": {
             "0": {
-              "common": 3
+              "common": 8
             }
           },
-          "gold_meteorite": {
+          "phoenix_feather": {
             "1": {
-              "common": 6
-            }
-          },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "the_chalice": {
-            "0": {
-              "common": 2
-            }
-          },
-          "lunar_totem": {
-            "3": {
-              "common": 2
+              "common": 4
             },
-            "2": {
-              "common": 2
-            }
-          },
-          "mercurys_lens": {
-            "1": {
-              "rare": 1,
-              "common": 1
-            }
-          },
-          "tachyon_deflector": {
             "0": {
               "common": 1
             }
           },
           "dilithium_monocle": {
             "0": {
-              "common": 1
+              "common": 12
             },
             "1": {
               "common": 1
             }
           },
-          "tungsten_ankh": {
-            "2": {
-              "rare": 1
+          "prophecy_stone_fragment": {
+            "0": {
+              "common": 6
             }
           },
-          "beak_of_midas": {
-            "2": {
-              "common": 3
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 11
             }
           },
-          "soul_stone": {
+          "the_chalice": {
+            "0": {
+              "common": 8
+            },
             "1": {
+              "common": 7
+            },
+            "2": {
               "common": 1
             }
           },
-          "demeters_necklace": {
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 7
+            }
+          },
+          "neodymium_medallion": {
+            "1": {
+              "common": 2
+            },
             "2": {
+              "common": 4
+            }
+          },
+          "shell_stone": {
+            "1": {
               "common": 1
             }
           },
           "titanium_actuator": {
             "0": {
-              "common": 1
+              "common": 10
             },
             "1": {
               "common": 1
             }
           },
-          "terra_stone": {
+          "gold_meteorite": {
+            "1": {
+              "common": 13
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "beak_of_midas": {
+            "1": {
+              "common": 5
+            },
+            "2": {
+              "rare": 1,
+              "common": 3
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "demeters_necklace": {
+            "2": {
+              "common": 4
+            }
+          },
+          "vial_martian_dust": {
+            "2": {
+              "common": 2,
+              "epic": 1
+            },
+            "1": {
+              "common": 3
+            }
+          },
+          "aurelian_brooch": {
+            "2": {
+              "common": 3
+            }
+          },
+          "interstellar_compass": {
+            "2": {
+              "common": 3
+            },
+            "1": {
+              "common": 3
+            }
+          },
+          "mercurys_lens": {
+            "1": {
+              "common": 6
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 15
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 4
+            },
+            "2": {
+              "common": 1
+            }
+          },
+          "dilithium_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "ornate_gusset": {
+            "2": {
+              "common": 1
+            },
+            "1": {
+              "common": 5
+            }
+          },
+          "tachyon_stone": {
             "1": {
               "common": 1
             }
           },
-          "phoenix_feather": {
+          "lunar_stone": {
+            "1": {
+              "common": 2
+            }
+          },
+          "soul_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "light_of_eggendil": {
+            "0": {
+              "common": 1
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "lunar_totem": {
+            "3": {
+              "common": 3
+            },
+            "2": {
+              "common": 2
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 1
+            }
+          },
+          "clarity_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "carved_rainstick": {
+            "0": {
+              "common": 3
+            },
             "1": {
               "common": 1
+            }
+          },
+          "book_of_basan": {
+            "0": {
+              "common": 1
+            }
+          },
+          "life_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "terra_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tau_ceti_geode": {
+            "1": {
+              "common": 2
+            }
+          },
+          "soul_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "dilithium_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "common": 2
             }
           }
         }
@@ -11555,14 +11911,14 @@
               "common": 5
             }
           },
-          "phoenix_feather": {
-            "0": {
-              "common": 1
-            }
-          },
           "shell_stone_fragment": {
             "0": {
               "common": 5
+            }
+          },
+          "phoenix_feather": {
+            "0": {
+              "common": 1
             }
           }
         }
@@ -11952,22 +12308,7 @@
               "common": 4
             }
           },
-          "titanium_actuator": {
-            "0": {
-              "common": 1
-            }
-          },
-          "phoenix_feather": {
-            "0": {
-              "common": 3
-            }
-          },
-          "lunar_stone": {
-            "0": {
-              "common": 1
-            }
-          },
-          "quantum_metronome": {
+          "soul_stone": {
             "0": {
               "common": 2
             }
@@ -11977,7 +12318,22 @@
               "common": 2
             }
           },
-          "soul_stone": {
+          "phoenix_feather": {
+            "0": {
+              "common": 3
+            }
+          },
+          "titanium_actuator": {
+            "0": {
+              "common": 1
+            }
+          },
+          "lunar_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "quantum_metronome": {
             "0": {
               "common": 2
             }
@@ -12101,14 +12457,14 @@
               "common": 4
             }
           },
-          "the_chalice": {
-            "0": {
-              "common": 6
-            }
-          },
           "quantum_stone_fragment": {
             "0": {
               "common": 14
+            }
+          },
+          "the_chalice": {
+            "0": {
+              "common": 6
             }
           },
           "quantum_metronome": {
@@ -12136,78 +12492,9 @@
       "2": {
         "count": 900,
         "rewards": {
-          "tungsten_ankh": {
-            "1": {
-              "common": 18,
-              "rare": 1
-            }
-          },
-          "solar_titanium": {
+          "tau_ceti_geode": {
             "0": {
-              "common": 106
-            }
-          },
-          "vial_martian_dust": {
-            "1": {
-              "rare": 5,
-              "common": 11
-            }
-          },
-          "the_chalice": {
-            "0": {
-              "common": 26
-            }
-          },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 37
-            }
-          },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 50
-            }
-          },
-          "carved_rainstick": {
-            "0": {
-              "common": 85
-            }
-          },
-          "phoenix_feather": {
-            "0": {
-              "common": 7
-            }
-          },
-          "interstellar_compass": {
-            "0": {
-              "common": 39
-            }
-          },
-          "neodymium_medallion": {
-            "0": {
-              "common": 41
-            },
-            "1": {
-              "rare": 4,
-              "common": 6
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 50
-            },
-            "1": {
-              "common": 2
-            }
-          },
-          "aurelian_brooch": {
-            "1": {
-              "common": 31
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 39
+              "common": 88
             }
           },
           "beak_of_midas": {
@@ -12218,35 +12505,48 @@
               "common": 5
             }
           },
-          "tachyon_stone_fragment": {
+          "solar_titanium": {
             "0": {
-              "common": 20
+              "common": 106
             }
           },
-          "quantum_stone": {
+          "the_chalice": {
             "0": {
-              "common": 1
+              "common": 26
             }
           },
-          "tau_ceti_geode": {
-            "0": {
-              "common": 88
-            }
-          },
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 44
+          "tungsten_ankh": {
+            "1": {
+              "common": 18,
+              "rare": 1
             }
           },
           "demeters_necklace": {
             "1": {
-              "common": 19,
-              "rare": 1
+              "rare": 1,
+              "common": 19
             }
           },
-          "quantum_stone_fragment": {
+          "shell_stone": {
             "0": {
-              "common": 46
+              "common": 1
+            }
+          },
+          "mercurys_lens": {
+            "0": {
+              "common": 50
+            },
+            "1": {
+              "common": 2
+            }
+          },
+          "neodymium_medallion": {
+            "0": {
+              "common": 41
+            },
+            "1": {
+              "common": 6,
+              "rare": 4
             }
           },
           "ornate_gusset": {
@@ -12257,22 +12557,58 @@
               "common": 6
             }
           },
-          "quantum_metronome": {
+          "life_stone_fragment": {
             "0": {
-              "common": 5
+              "common": 39
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 46
+            }
+          },
+          "interstellar_compass": {
+            "0": {
+              "common": 39
+            }
+          },
+          "dilithium_stone_fragment": {
+            "0": {
+              "common": 44
+            }
+          },
+          "carved_rainstick": {
+            "0": {
+              "common": 85
             }
           },
           "lunar_totem": {
-            "1": {
-              "common": 5
-            },
             "2": {
               "common": 10
+            },
+            "1": {
+              "common": 5
             }
           },
-          "soul_stone": {
+          "soul_stone_fragment": {
             "0": {
-              "common": 3
+              "common": 50
+            }
+          },
+          "vial_martian_dust": {
+            "1": {
+              "common": 11,
+              "rare": 5
+            }
+          },
+          "aurelian_brooch": {
+            "1": {
+              "common": 31
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 37
             }
           },
           "puzzle_cube": {
@@ -12281,14 +12617,9 @@
               "epic": 1
             }
           },
-          "terra_stone": {
+          "tachyon_stone_fragment": {
             "0": {
-              "common": 3
-            }
-          },
-          "shell_stone": {
-            "0": {
-              "common": 1
+              "common": 20
             }
           },
           "dilithium_monocle": {
@@ -12296,14 +12627,39 @@
               "common": 2
             }
           },
+          "terra_stone": {
+            "0": {
+              "common": 3
+            }
+          },
           "lunar_stone": {
             "0": {
               "common": 2
             }
           },
+          "phoenix_feather": {
+            "0": {
+              "common": 7
+            }
+          },
           "tachyon_stone": {
             "0": {
               "common": 4
+            }
+          },
+          "quantum_metronome": {
+            "0": {
+              "common": 5
+            }
+          },
+          "soul_stone": {
+            "0": {
+              "common": 3
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 1
             }
           }
         }
@@ -12311,6 +12667,31 @@
       "3": {
         "count": 201,
         "rewards": {
+          "vial_martian_dust": {
+            "1": {
+              "common": 4
+            }
+          },
+          "mercurys_lens": {
+            "0": {
+              "common": 10
+            }
+          },
+          "demeters_necklace": {
+            "1": {
+              "common": 3
+            }
+          },
+          "aurelian_brooch": {
+            "1": {
+              "common": 10
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 10
+            }
+          },
           "solar_titanium": {
             "0": {
               "common": 17
@@ -12321,77 +12702,6 @@
               "common": 15
             }
           },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 14
-            }
-          },
-          "vial_martian_dust": {
-            "1": {
-              "common": 4
-            }
-          },
-          "soul_stone_fragment": {
-            "0": {
-              "common": 11
-            }
-          },
-          "carved_rainstick": {
-            "0": {
-              "common": 15
-            }
-          },
-          "titanium_actuator": {
-            "0": {
-              "common": 1
-            }
-          },
-          "beak_of_midas": {
-            "0": {
-              "common": 11
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "mercurys_lens": {
-            "0": {
-              "common": 10
-            }
-          },
-          "aurelian_brooch": {
-            "1": {
-              "common": 10
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 10
-            }
-          },
-          "neodymium_medallion": {
-            "1": {
-              "common": 4
-            },
-            "0": {
-              "common": 7
-            }
-          },
-          "interstellar_compass": {
-            "0": {
-              "common": 10
-            }
-          },
-          "tungsten_ankh": {
-            "1": {
-              "common": 3
-            }
-          },
-          "demeters_necklace": {
-            "1": {
-              "common": 3
-            }
-          },
           "ornate_gusset": {
             "0": {
               "common": 7
@@ -12400,19 +12710,14 @@
               "common": 2
             }
           },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
           "tau_ceti_geode": {
             "0": {
               "common": 18
             }
           },
-          "lunar_stone": {
+          "terra_stone_fragment": {
             "0": {
-              "common": 2
+              "common": 14
             }
           },
           "the_chalice": {
@@ -12420,17 +12725,9 @@
               "common": 5
             }
           },
-          "quantum_stone_fragment": {
+          "interstellar_compass": {
             "0": {
               "common": 10
-            }
-          },
-          "lunar_totem": {
-            "2": {
-              "common": 2
-            },
-            "1": {
-              "common": 2
             }
           },
           "quantum_metronome": {
@@ -12438,9 +12735,37 @@
               "common": 1
             }
           },
+          "neodymium_medallion": {
+            "0": {
+              "common": 7
+            },
+            "1": {
+              "common": 4
+            }
+          },
+          "lunar_stone": {
+            "0": {
+              "common": 2
+            }
+          },
+          "soul_stone_fragment": {
+            "0": {
+              "common": 11
+            }
+          },
           "phoenix_feather": {
             "0": {
               "common": 1
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 10
+            }
+          },
+          "carved_rainstick": {
+            "0": {
+              "common": 15
             }
           },
           "tachyon_stone": {
@@ -12448,7 +12773,38 @@
               "common": 1
             }
           },
+          "beak_of_midas": {
+            "1": {
+              "common": 1
+            },
+            "0": {
+              "common": 11
+            }
+          },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
+          "lunar_totem": {
+            "1": {
+              "common": 2
+            },
+            "2": {
+              "common": 2
+            }
+          },
           "shell_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 3
+            }
+          },
+          "titanium_actuator": {
             "0": {
               "common": 1
             }
@@ -12744,6 +13100,21 @@
               "common": 42
             }
           },
+          "tachyon_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "common": 1
+            }
+          },
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 10
+            }
+          },
           "gold_meteorite": {
             "1": {
               "common": 9
@@ -12754,24 +13125,9 @@
               "common": 25
             }
           },
-          "tachyon_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "ship_in_a_bottle": {
-            "0": {
-              "common": 10
-            }
-          },
           "tachyon_stone": {
             "0": {
               "common": 3
-            }
-          },
-          "puzzle_cube": {
-            "2": {
-              "common": 1
             }
           },
           "lunar_stone": {
@@ -12894,8 +13250,8 @@
           "demeters_necklace": {
             "2": {
               "common": 47,
-              "epic": 2,
-              "rare": 1
+              "rare": 1,
+              "epic": 2
             },
             "1": {
               "common": 40
@@ -12948,9 +13304,9 @@
               "common": 15
             }
           },
-          "soul_stone_fragment": {
+          "clarity_stone_fragment": {
             "0": {
-              "common": 49
+              "common": 18
             }
           },
           "prophecy_stone_fragment": {
@@ -12958,14 +13314,19 @@
               "common": 13
             }
           },
+          "soul_stone_fragment": {
+            "0": {
+              "common": 49
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 12
+            }
+          },
           "life_stone": {
             "0": {
               "common": 5
-            }
-          },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 18
             }
           },
           "lunar_stone": {
@@ -12976,24 +13337,19 @@
               "common": 1
             }
           },
-          "quantum_stone": {
-            "0": {
-              "common": 12
-            }
-          },
           "terra_stone": {
             "0": {
               "common": 18
             }
           },
-          "gold_meteorite": {
-            "1": {
-              "common": 5
-            }
-          },
           "puzzle_cube": {
             "2": {
               "common": 2
+            }
+          },
+          "gold_meteorite": {
+            "1": {
+              "common": 5
             }
           }
         }
@@ -13093,14 +13449,25 @@
               "common": 2
             }
           },
-          "quantum_stone": {
-            "0": {
-              "common": 1
-            }
-          },
           "life_stone_fragment": {
             "0": {
               "common": 2
+            }
+          },
+          "dilithium_monocle": {
+            "0": {
+              "common": 3
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "rare": 1,
+              "common": 1
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 1
             }
           },
           "quantum_stone_fragment": {
@@ -13108,21 +13475,10 @@
               "common": 1
             }
           },
-          "tungsten_ankh": {
-            "1": {
-              "common": 1,
-              "rare": 1
-            }
-          },
           "beak_of_midas": {
             "1": {
               "common": 3
             },
-            "0": {
-              "common": 3
-            }
-          },
-          "dilithium_monocle": {
             "0": {
               "common": 3
             }
@@ -13139,44 +13495,8 @@
       "1": {
         "count": 140,
         "rewards": {
-          "puzzle_cube": {
-            "2": {
-              "common": 3
-            }
-          },
           "dilithium_stone_fragment": {
             "0": {
-              "common": 3
-            }
-          },
-          "titanium_actuator": {
-            "0": {
-              "common": 4
-            }
-          },
-          "phoenix_feather": {
-            "0": {
-              "common": 14
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "the_chalice": {
-            "1": {
-              "common": 4
-            },
-            "0": {
-              "common": 6
-            }
-          },
-          "vial_martian_dust": {
-            "1": {
               "common": 3
             }
           },
@@ -13188,12 +13508,45 @@
               "common": 3
             }
           },
-          "carved_rainstick": {
+          "phoenix_feather": {
             "0": {
-              "common": 8
+              "common": 14
             },
             "1": {
               "common": 1
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 3
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "ornate_gusset": {
+            "1": {
+              "common": 6
+            }
+          },
+          "titanium_actuator": {
+            "0": {
+              "common": 4
+            }
+          },
+          "gold_meteorite": {
+            "1": {
+              "common": 1
+            }
+          },
+          "the_chalice": {
+            "1": {
+              "common": 4
+            },
+            "0": {
+              "common": 6
             }
           },
           "ship_in_a_bottle": {
@@ -13201,37 +13554,9 @@
               "common": 2
             }
           },
-          "lunar_stone": {
-            "1": {
-              "common": 2
-            }
-          },
-          "dilithium_monocle": {
-            "0": {
-              "common": 7
-            }
-          },
-          "solar_titanium": {
-            "1": {
-              "common": 1
-            },
-            "0": {
-              "common": 1
-            }
-          },
           "mercurys_lens": {
             "1": {
               "common": 3
-            }
-          },
-          "terra_stone": {
-            "0": {
-              "common": 4
-            }
-          },
-          "lunar_totem": {
-            "2": {
-              "common": 5
             }
           },
           "soul_stone_fragment": {
@@ -13244,9 +13569,40 @@
               "common": 10
             }
           },
-          "clarity_stone_fragment": {
+          "dilithium_monocle": {
             "0": {
-              "common": 4
+              "common": 7
+            }
+          },
+          "demeters_necklace": {
+            "2": {
+              "common": 3
+            }
+          },
+          "carved_rainstick": {
+            "1": {
+              "common": 1
+            },
+            "0": {
+              "common": 8
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 5
+            }
+          },
+          "quantum_stone": {
+            "0": {
+              "common": 1
+            }
+          },
+          "interstellar_compass": {
+            "0": {
+              "common": 5
+            },
+            "1": {
+              "common": 2
             }
           },
           "soul_stone": {
@@ -13254,9 +13610,52 @@
               "common": 2
             }
           },
-          "ornate_gusset": {
+          "lunar_totem": {
+            "2": {
+              "common": 5
+            }
+          },
+          "quantum_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
+          "prophecy_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "terra_stone": {
+            "0": {
+              "common": 4
+            }
+          },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 4
+            }
+          },
+          "puzzle_cube": {
+            "2": {
+              "common": 3
+            }
+          },
+          "vial_martian_dust": {
             "1": {
-              "common": 6
+              "common": 3
+            }
+          },
+          "lunar_stone": {
+            "1": {
+              "common": 2
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 1
+            },
+            "0": {
+              "common": 1
             }
           },
           "aurelian_brooch": {
@@ -13266,141 +13665,12 @@
             "1": {
               "common": 1
             }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 5
-            }
-          },
-          "quantum_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
-          "interstellar_compass": {
-            "0": {
-              "common": 5
-            },
-            "1": {
-              "common": 2
-            }
-          },
-          "prophecy_stone_fragment": {
-            "0": {
-              "common": 4
-            }
-          },
-          "tungsten_ankh": {
-            "1": {
-              "common": 3
-            }
-          },
-          "gold_meteorite": {
-            "1": {
-              "common": 1
-            }
-          },
-          "demeters_necklace": {
-            "2": {
-              "common": 3
-            }
-          },
-          "quantum_stone": {
-            "0": {
-              "common": 1
-            }
           }
         }
       },
       "0": {
         "count": 108,
         "rewards": {
-          "dilithium_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "interstellar_compass": {
-            "0": {
-              "common": 7
-            },
-            "1": {
-              "common": 1
-            }
-          },
-          "life_stone_fragment": {
-            "0": {
-              "common": 2
-            }
-          },
-          "dilithium_monocle": {
-            "0": {
-              "common": 5
-            }
-          },
-          "terra_stone_fragment": {
-            "0": {
-              "common": 6
-            }
-          },
-          "neodymium_medallion": {
-            "1": {
-              "rare": 1,
-              "common": 7
-            },
-            "2": {
-              "common": 1
-            }
-          },
-          "solar_titanium": {
-            "0": {
-              "common": 2
-            },
-            "1": {
-              "common": 2
-            }
-          },
-          "the_chalice": {
-            "0": {
-              "common": 6
-            },
-            "1": {
-              "common": 2
-            }
-          },
-          "mercurys_lens": {
-            "1": {
-              "common": 4
-            },
-            "0": {
-              "common": 4
-            }
-          },
-          "clarity_stone_fragment": {
-            "0": {
-              "common": 3
-            }
-          },
-          "ship_in_a_bottle": {
-            "0": {
-              "common": 3
-            }
-          },
-          "tungsten_ankh": {
-            "1": {
-              "common": 4
-            }
-          },
-          "vial_martian_dust": {
-            "1": {
-              "common": 3
-            }
-          },
-          "demeters_necklace": {
-            "2": {
-              "common": 1
-            }
-          },
           "carved_rainstick": {
             "0": {
               "common": 7
@@ -13409,19 +13679,12 @@
               "common": 1
             }
           },
-          "quantum_metronome": {
+          "the_chalice": {
             "0": {
-              "common": 5
-            }
-          },
-          "gold_meteorite": {
+              "common": 6
+            },
             "1": {
-              "common": 3
-            }
-          },
-          "ornate_gusset": {
-            "1": {
-              "common": 1
+              "common": 2
             }
           },
           "aurelian_brooch": {
@@ -13442,9 +13705,67 @@
               "common": 1
             }
           },
+          "mercurys_lens": {
+            "1": {
+              "common": 4
+            },
+            "0": {
+              "common": 4
+            }
+          },
+          "terra_stone_fragment": {
+            "0": {
+              "common": 6
+            }
+          },
+          "quantum_metronome": {
+            "0": {
+              "common": 5
+            }
+          },
+          "life_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
+          "interstellar_compass": {
+            "0": {
+              "common": 7
+            },
+            "1": {
+              "common": 1
+            }
+          },
+          "neodymium_medallion": {
+            "1": {
+              "common": 7,
+              "rare": 1
+            },
+            "2": {
+              "common": 1
+            }
+          },
           "quantum_stone_fragment": {
             "0": {
               "common": 1
+            }
+          },
+          "solar_titanium": {
+            "1": {
+              "common": 2
+            },
+            "0": {
+              "common": 2
+            }
+          },
+          "ship_in_a_bottle": {
+            "0": {
+              "common": 3
+            }
+          },
+          "tungsten_ankh": {
+            "1": {
+              "common": 4
             }
           },
           "soul_stone": {
@@ -13467,9 +13788,19 @@
               "common": 4
             }
           },
+          "clarity_stone_fragment": {
+            "0": {
+              "common": 3
+            }
+          },
           "terra_stone": {
             "0": {
               "common": 1
+            }
+          },
+          "gold_meteorite": {
+            "1": {
+              "common": 3
             }
           },
           "lunar_totem": {
@@ -13477,8 +13808,18 @@
               "common": 1
             }
           },
+          "dilithium_monocle": {
+            "0": {
+              "common": 5
+            }
+          },
           "titanium_actuator": {
             "0": {
+              "common": 3
+            }
+          },
+          "vial_martian_dust": {
+            "1": {
               "common": 3
             }
           },
@@ -13487,8 +13828,23 @@
               "common": 1
             }
           },
+          "dilithium_stone_fragment": {
+            "0": {
+              "common": 2
+            }
+          },
           "puzzle_cube": {
             "2": {
+              "common": 1
+            }
+          },
+          "demeters_necklace": {
+            "2": {
+              "common": 1
+            }
+          },
+          "ornate_gusset": {
+            "1": {
               "common": 1
             }
           }
@@ -13518,12 +13874,12 @@
       "0": {
         "count": 17,
         "rewards": {
-          "lunar_totem": {
+          "puzzle_cube": {
             "0": {
               "common": 8
             }
           },
-          "puzzle_cube": {
+          "lunar_totem": {
             "0": {
               "common": 8
             }
@@ -13540,9 +13896,9 @@
       "0": {
         "count": 16,
         "rewards": {
-          "lunar_totem": {
+          "puzzle_cube": {
             "0": {
-              "common": 2
+              "common": 4
             }
           },
           "lunar_stone_fragment": {
@@ -13555,14 +13911,14 @@
               "common": 3
             }
           },
-          "puzzle_cube": {
-            "0": {
-              "common": 4
-            }
-          },
           "demeters_necklace": {
             "0": {
               "common": 1
+            }
+          },
+          "lunar_totem": {
+            "0": {
+              "common": 2
             }
           }
         }

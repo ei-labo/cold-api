@@ -19,17 +19,17 @@
       "jimbos_purple_big": {
         "price": 750,
         "tokens": 3,
-        "se": 100.0
+        "se": 1.0
       },
       "jimbos_orange": {
         "price": 2500,
         "tokens": 3,
-        "se": 250.0
+        "se": 100.0
       },
       "jimbos_orange_big": {
         "price": 7500,
         "tokens": 5,
-        "se": 1000.0
+        "se": 100.0
       },
       "subsidy_application": {
         "price": 200,
@@ -44,7 +44,7 @@
       "money_printer": {
         "price": 5000,
         "tokens": 6,
-        "se": 500000000.0
+        "se": 5000000.0
       },
       "tachyon_prism_blue": {
         "price": 200,
@@ -54,27 +54,27 @@
       "tachyon_prism_blue_big": {
         "price": 1000,
         "tokens": 3,
-        "se": 250.0
+        "se": 0.0
       },
       "tachyon_prism_purple": {
         "price": 1000,
         "tokens": 3,
-        "se": 100.0
+        "se": 0.0
       },
       "tachyon_prism_purple_big": {
         "price": 5000,
         "tokens": 4,
-        "se": 100000.0
+        "se": 100.0
       },
       "tachyon_prism_orange": {
         "price": 12000,
         "tokens": 6,
-        "se": 250000.0
+        "se": 2500.0
       },
       "tachyon_prism_orange_big": {
         "price": 25000,
         "tokens": 12,
-        "se": 10000000.0
+        "se": 100000.0
       },
       "soul_beacon_blue": {
         "price": 200,
@@ -94,27 +94,27 @@
       "boost_beacon_blue": {
         "price": 1000,
         "tokens": 5,
-        "se": 10000.0
+        "se": 1000.0
       },
       "boost_beacon_purple": {
         "price": 8000,
         "tokens": 8,
-        "se": 1000000.0
+        "se": 100000.0
       },
       "boost_beacon_blue_big": {
         "price": 15000,
         "tokens": 10,
-        "se": 5000000.0
+        "se": 500000.0
       },
       "boost_beacon_orange": {
         "price": 50000,
         "tokens": 15,
-        "se": 1000000000.0
+        "se": 100000000.0
       },
       "soul_mirror_blue": {
         "price": 100,
         "tokens": 2,
-        "se": 250.0
+        "se": 1000.0
       },
       "soul_mirror_purple": {
         "price": 500,

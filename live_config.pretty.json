@@ -1,18 +1,13 @@
 {
   "boosts": {
     "items": {
-      "jimbos_blue": {
+      "jimbos_blue_v2": {
         "price": 50,
         "tokens": 1,
         "se": 0.0
       },
-      "jimbos_blue_big": {
-        "price": 100,
-        "tokens": 1,
-        "se": 0.0
-      },
-      "jimbos_purple": {
-        "price": 250,
+      "jimbos_purple_v2": {
+        "price": 150,
         "tokens": 2,
         "se": 0.0
       },
@@ -37,26 +32,26 @@
         "se": 0.0
       },
       "blank_check": {
-        "price": 1000,
+        "price": 750,
         "tokens": 4,
         "se": 100000.0
       },
       "money_printer": {
-        "price": 5000,
+        "price": 2500,
         "tokens": 6,
         "se": 5000000.0
       },
-      "tachyon_prism_blue": {
-        "price": 200,
+      "tachyon_prism_blue_v2": {
+        "price": 50,
         "tokens": 1,
         "se": 0.0
       },
       "tachyon_prism_blue_big": {
-        "price": 1000,
+        "price": 500,
         "tokens": 3,
         "se": 0.0
       },
-      "tachyon_prism_purple": {
+      "tachyon_prism_purple_v2": {
         "price": 1000,
         "tokens": 3,
         "se": 0.0
@@ -76,12 +71,12 @@
         "tokens": 12,
         "se": 100000.0
       },
-      "soul_beacon_blue": {
+      "soul_beacon_blue_v2": {
         "price": 200,
         "tokens": 0,
         "se": 10000.0
       },
-      "soul_beacon_purple": {
+      "soul_beacon_purple_v2": {
         "price": 1000,
         "tokens": 0,
         "se": 1000000.0
@@ -130,6 +125,41 @@
         "price": 10,
         "tokens": 0,
         "se": 0.0
+      },
+      "jimbos_blue": {
+        "price": 50,
+        "tokens": 1,
+        "se": 0.0
+      },
+      "jimbos_blue_big": {
+        "price": 100,
+        "tokens": 1,
+        "se": 0.0
+      },
+      "jimbos_purple": {
+        "price": 250,
+        "tokens": 2,
+        "se": 0.0
+      },
+      "tachyon_prism_blue": {
+        "price": 200,
+        "tokens": 1,
+        "se": 0.0
+      },
+      "tachyon_prism_purple": {
+        "price": 1000,
+        "tokens": 3,
+        "se": 0.0
+      },
+      "soul_beacon_blue": {
+        "price": 200,
+        "tokens": 0,
+        "se": 10000.0
+      },
+      "soul_beacon_purple": {
+        "price": 1000,
+        "tokens": 0,
+        "se": 1000000.0
       }
     },
     "cash_boost_cooloff_time": 30.0
@@ -138,14 +168,14 @@
     "items": {
       "ge_half_dozen": {
         "amount": 6.0,
-        "rand_min": 0.05,
+        "rand_min": 0.1,
         "rand_max": 0.0,
         "video_min": 0.0,
         "video_max": 0.0
       },
       "ge_carton": {
         "amount": 12.0,
-        "rand_min": 0.4,
+        "rand_min": 0.45,
         "rand_max": 0.0,
         "video_min": 0.0,
         "video_max": 0.0
@@ -180,14 +210,14 @@
       },
       "cash_stack": {
         "amount": 1.0,
-        "rand_min": 0.7,
+        "rand_min": 0.5,
         "rand_max": 0.0,
         "video_min": 0.0,
         "video_max": 0.0
       },
       "cash_pile": {
         "amount": 5.0,
-        "rand_min": 0.4,
+        "rand_min": 0.3,
         "rand_max": 0.35,
         "video_min": 0.2,
         "video_max": 0.15
@@ -196,14 +226,14 @@
         "amount": 15.0,
         "rand_min": 0.02,
         "rand_max": 0.15,
-        "video_min": 0.35,
+        "video_min": 0.3,
         "video_max": 0.65
       },
       "chicken_box": {
         "amount": 3.0,
         "rand_min": 0.0,
         "rand_max": 0.0,
-        "video_min": 0.2,
+        "video_min": 0.15,
         "video_max": 0.1
       },
       "chicken_box_large": {
